@@ -1,0 +1,218 @@
+﻿{"url":"http://opac.lib.fzu.edu.cn","cms":"None","server":"Apache-Coyote/1.1","statuscode":200,"length":77,"title":""}
+{"url":"http://idp.fzu.edu.cn","cms":"None","server":"Unknown","statuscode":200,"length":97,"title":""}
+{"url":"http://acm.fzu.edu.cn","cms":"None","server":"Apache","statuscode":200,"length":6013,"title":"Fuzhou University OnlineJudge"}
+{"url":"http://fddm.fzu.edu.cn","cms":"None","server":"Unknown","statuscode":200,"length":36,"title":""}
+{"url":"http://jgsyzx.fzu.edu.cn","cms":"None","server":"Microsoft-IIS/8.5","statuscode":200,"length":793,"title":"正在跳转"}
+{"url":"http://doorwx.fzu.edu.cn","cms":"None","server":"nginx/1.17.6","statuscode":200,"length":3530,"title":""}
+{"url":"http://zp.fzu.edu.cn","cms":"None","server":"IBM_HTTP_Server","statuscode":200,"length":3183,"title":"IBM HTTP Server"}
+{"url":"http://res.fzu.edu.cn","cms":"None","server":"Unknown","statuscode":403,"length":162,"title":"403 Forbidden"}
+{"url":"http://apis.fzu.edu.cn","cms":"spring-boot","server":"Unknown","statuscode":200,"length":1408,"title":"ESOP网关配置工具"}
+{"url":"http://c.fzu.edu.cn","cms":"None","server":"IBM_HTTP_Server","statuscode":503,"length":1679,"title":"出错啦！"}
+{"url":"http://lib.fzu.edu.cn","cms":"None","server":"Microsoft-IIS/6.0","statuscode":200,"length":30379,"title":"\t福州大学图书馆"}
+{"url":"http://fbmei.fzu.edu.cn","cms":"None","server":"Unknown","statuscode":200,"length":11519,"title":"福州大学生物医学工程研究所"}
+{"url":"http://kjgl.fzu.edu.cn","cms":"Shiro","server":"nginx/1.17.0","statuscode":200,"length":10391,"title":"首页"}
+{"url":"http://mba.fzu.edu.cn","cms":"None","server":"Unknown","statuscode":200,"length":35758,"title":"福州大学经济与管理学院专业学位教育中心（工商管理硕士、工业工程硕士、项目管理硕士、海外合作MBA项目）"}
+{"url":"http://jwch.fzu.edu.cn","cms":"None","server":"None","statuscode":200,"length":36956,"title":"福州大学教务处"}
+{"url":"http://kjc.fzu.edu.cn","cms":"None","server":"Unknown","statuscode":200,"length":15834,"title":"福州大学·科技处"}
+{"url":"http://fjfm.fzu.edu.cn","cms":"None","server":"Unknown","statuscode":200,"length":13002,"title":"福州大学材料科学与工程学院省市功能材料平台topfoot"}
+{"url":"http://swms.fzu.edu.cn","cms":"None","server":"Unknown","statuscode":200,"length":7208,"title":"福州大学学生工作综合管理系统"}
+{"url":"http://sfl.fzu.edu.cn","cms":"None","server":"Unknown","statuscode":200,"length":36837,"title":"福州大学外国语学院"}
+{"url":"http://doormgmt.fzu.edu.cn","cms":"None","server":"nginx/1.17.6","statuscode":200,"length":3823,"title":"校园出入管理系统"}
+{"url":"http://fjuedc.fzu.edu.cn","cms":"None","server":"Unknown","statuscode":200,"length":26683,"title":"FJUEDC"}
+{"url":"http://lsdmis.fzu.edu.cn","cms":"None","server":"Unknown","statuscode":200,"length":32759,"title":"空间数据挖掘与信息共享教育部重点实验室网站TOP"}
+{"url":"http://imcl.fzu.edu.cn","cms":"None","server":"None","statuscode":200,"length":5648,"title":"福州大学智能多媒体实验室"}
+{"url":"http://jdzx.fzu.edu.cn","cms":"None","server":"Unknown","statuscode":200,"length":24111,"title":"福州大学机电工程实践中心"}
+{"url":"http://fzu.edu.cn","cms":"CoreMail","server":"nginx","statuscode":200,"length":24210,"title":"福州大学邮件系统"}
+{"url":"http://mail.fzu.edu.cn","cms":"CoreMail","server":"nginx","statuscode":200,"length":24220,"title":"福州大学邮件系统"}
+{"url":"http://cl.fzu.edu.cn","cms":"None","server":"Unknown","statuscode":200,"length":32349,"title":"材料科学与工程学院"}
+{"url":"http://yjsgl.fzu.edu.cn","cms":"None","server":"Unknown","statuscode":200,"length":14887,"title":"统一身份认证"}
+{"url":"http://xc.fzu.edu.cn","cms":"None","server":"None","statuscode":404,"length":679,"title":"HTTP Status 404 – 未找到"}
+{"url":"http://qingfeng.fzu.edu.cn","cms":"None","server":"Unknown","statuscode":403,"length":1590,"title":"出错啦！"}
+{"url":"http://oce.fzu.edu.cn","cms":"None","server":"Unknown","statuscode":200,"length":57717,"title":"福州大学对外合作与交流处 港澳台事务办公室"}
+{"url":"http://cjy.fzu.edu.cn","cms":"None","server":"Unknown","statuscode":200,"length":17670,"title":"继续教育学院top无标题文档"}
+{"url":"http://wklhml.fzu.edu.cn","cms":"None","server":"Microsoft-IIS/6.0","statuscode":200,"length":30379,"title":"\t福州大学图书馆"}
+{"url":"http://er.fzu.edu.cn","cms":"None","server":"Unknown","statuscode":200,"length":44174,"title":"环境与资源学院"}
+{"url":"http://rsc.fzu.edu.cn","cms":"None","server":"Unknown","statuscode":200,"length":56203,"title":"绂忓窞澶у鍏氬鏁欏笀宸ヤ綔閮�  浜轰簨澶�"}
+{"url":"http://esop.fzu.edu.cn","cms":"spring-boot","server":"Unknown","statuscode":200,"length":2356,"title":"能力开放平台"}
+{"url":"http://met2.fzu.edu.cn","cms":"None","server":"openresty","statuscode":200,"length":48,"title":""}
+{"url":"http://met.fzu.edu.cn","cms":"None","server":"Unknown","statuscode":200,"length":14623,"title":"福州大学现代教育技术中心"}
+{"url":"http://open.fzu.edu.cn","cms":"None","server":"openresty","statuscode":200,"length":90086,"title":""}
+{"url":"http://sysaq.fzu.edu.cn","cms":"None","server":"Unknown","statuscode":200,"length":18499,"title":"首页 - 实验室安全考试系统"}
+{"url":"http://id.fzu.edu.cn","cms":"None","server":"Unknown","statuscode":200,"length":614,"title":"Welcome to nginx!"}
+{"url":"http://skc.fzu.edu.cn","cms":"None","server":"IBM_HTTP_Server","statuscode":200,"length":32941,"title":"福州大学社会科学研究管理处"}
+{"url":"http://doorapi.fzu.edu.cn","cms":"None","server":"nginx/1.17.6","statuscode":200,"length":2507,"title":""}
+{"url":"http://law.fzu.edu.cn","cms":"None","server":"Unknown","statuscode":200,"length":24943,"title":"\t福州大学法学院"}
+{"url":"http://fsad.fzu.edu.cn","cms":"None","server":"Unknown","statuscode":200,"length":20397,"title":"首页"}
+{"url":"http://yiban.fzu.edu.cn","cms":"None","server":"Unknown","statuscode":200,"length":50424,"title":"福州大学易班工作平台"}
+{"url":"http://iamc.fzu.edu.cn","cms":"None","server":"Unknown","statuscode":200,"length":28696,"title":"测试中心"}
+{"url":"http://fdjgzj.fzu.edu.cn","cms":"None","server":"Unknown","statuscode":200,"length":612,"title":"Welcome to nginx!"}
+{"url":"http://whd.fzu.edu.cn","cms":"None","server":"Microsoft-IIS/8.5","statuscode":200,"length":19828,"title":""}
+{"url":"http://salon.fzu.edu.cn","cms":"None","server":"Microsoft-HTTPAPI/2.0","statuscode":404,"length":315,"title":"Not Found"}
+{"url":"http://stuic.fzu.edu.cn","cms":"None","server":"Unknown","statuscode":200,"length":36489,"title":"福州大学学生工作部(处)欢迎你!"}
+{"url":"http://civil.fzu.edu.cn","cms":"None","server":"Unknown","statuscode":200,"length":56296,"title":"土木工程学院top"}
+{"url":"http://tb.fzu.edu.cn","cms":"None","server":"IBM_HTTP_Server","statuscode":200,"length":400,"title":"Home redirecting..."}
+{"url":"http://imp.fzu.edu.cn","cms":"None","server":"IBM_HTTP_Server","statuscode":200,"length":3216,"title":"IBM HTTP Server"}
+{"url":"http://www.fzu.edu.cn","cms":"None","server":"IBM_HTTP_Server","statuscode":200,"length":43243,"title":"首页 - 福州大学"}
+{"url":"http://jycy.fzu.edu.cn","cms":"None","server":"Unknown","statuscode":200,"length":20235,"title":"福州大学就业信息网"}
+{"url":"http://ehall.fzu.edu.cn","cms":"None","server":"openresty","statuscode":200,"length":90086,"title":""}
+{"url":"http://news.fzu.edu.cn","cms":"None","server":"Unknown","statuscode":200,"length":43022,"title":"福州大学新闻网"}
+{"url":"http://hr.fzu.edu.cn","cms":"None","server":"IBM_HTTP_Server","statuscode":200,"length":423,"title":"Home redirecting..."}
+{"url":"http://i.fzu.edu.cn","cms":"None","server":"openresty","statuscode":200,"length":90086,"title":""}
+{"url":"http://office.fzu.edu.cn","cms":"None","server":"Unknown","statuscode":200,"length":7131,"title":"党委办公室、校长办公室"}
+{"url":"http://xyt.fzu.edu.cn","cms":"None","server":"Unknown","statuscode":200,"length":13504,"title":"福州大学校友通"}
+{"url":"http://art.fzu.edu.cn","cms":"None","server":"Unknown","statuscode":200,"length":27790,"title":"福州大学厦门工艺美术学院"}
+{"url":"http://jgelab.fzu.edu.cn","cms":"None","server":"Microsoft-IIS/8.5","statuscode":200,"length":157231,"title":"\t\t经管实验教学中心管理服务 - 主页"}
+{"url":"http://www.lib.fzu.edu.cn","cms":"None","server":"Microsoft-IIS/6.0","statuscode":200,"length":30379,"title":"\t福州大学图书馆"}
+{"url":"http://dimacs.fzu.edu.cn","cms":"None","server":"WebSphere Application Server/6.1","statuscode":200,"length":10781,"title":"离散数学与理论计算机科学研究中心"}
+{"url":"http://ek.fzu.edu.cn","cms":"Apache Tomcat","server":"Apache-Coyote/1.1","statuscode":200,"length":11398,"title":"Apache Tomcat/7.0.54"}
+{"url":"http://jxxy.fzu.edu.cn","cms":"None","server":"WebSphere Application Server/6.1","statuscode":200,"length":28638,"title":"福州大学机械工程及自动化学院"}
+{"url":"http://fdgh.fzu.edu.cn","cms":"None","server":"WebSphere Application Server/6.1","statuscode":200,"length":33768,"title":"首页 - 福州大学工会"}
+{"url":"http://dqxy.fzu.edu.cn","cms":"None","server":"WebSphere Application Server/6.1","statuscode":200,"length":25189,"title":"福州大学电气工程与自动化学院"}
+{"url":"http://xbzrb.fzu.edu.cn","cms":"None","server":"Microsoft-IIS/7.5","statuscode":200,"length":44282,"title":"福州大学学报欢迎您"}
+{"url":"http://renwen.fzu.edu.cn","cms":"None","server":"WebSphere Application Server/6.1","statuscode":200,"length":95057,"title":"人文社会科学学院"}
+{"url":"http://mydb.fzu.edu.cn","cms":"None","server":"Microsoft-IIS/8.5","statuscode":200,"length":140085,"title":"\t\t  - 主页"}
+{"url":"http://ltc.fzu.edu.cn","cms":"None","server":"Unknown","statuscode":200,"length":28453,"title":"福州大学离退休工作部"}
+{"url":"http://iauthor.fzu.edu.cn","cms":"None","server":"Apache-Coyote/1.1","statuscode":200,"length":22726,"title":"Home - 福州大学学者库"}
+{"url":"http://kjkf.fzu.edu.cn","cms":"None","server":"Unknown","statuscode":200,"length":35554,"title":""}
+{"url":"http://hjz.fzu.edu.cn","cms":"None","server":"IBM_HTTP_Server","statuscode":200,"length":31855,"title":"福州大学基建资产管理处"}
+{"url":"http://smtp.fzu.edu.cn","cms":"CoreMail","server":"nginx","statuscode":200,"length":24220,"title":"福州大学邮件系统"}
+{"url":"http://vip.fzu.edu.cn","cms":"Shiro","server":"nginx/1.17.0","statuscode":200,"length":10391,"title":"首页"}
+{"url":"http://wx.fzu.edu.cn","cms":"Shiro","server":"Unknown","statuscode":200,"length":65052,"title":"福州大学物理与信息工程学院"}
+{"url":"http://icxcy.fzu.edu.cn","cms":"None","server":"Microsoft-IIS/8.5","statuscode":200,"length":12359,"title":"福州大学创新创业大赛"}
+{"url":"http://tmxnsy.fzu.edu.cn","cms":"None","server":"Unknown","statuscode":200,"length":35885,"title":"海西可持续土木工程虚拟仿真实验教学中心"}
+{"url":"http://ncip.fzu.edu.cn","cms":"None","server":"Unknown","statuscode":200,"length":14480,"title":"福建省网络计算与智能信息处理重点实验室"}
+{"url":"http://clr.fzu.edu.cn","cms":"None","server":"IBM_HTTP_Server","statuscode":200,"length":17751,"title":"福州大学物流研究中心"}
+{"url":"http://tims.fzu.edu.cn","cms":"None","server":"Unknown","statuscode":200,"length":30175,"title":"福州大学测试中心大型仪器开放共享服务平台"}
+{"url":"http://bwb.fzu.edu.cn","cms":"None","server":"Unknown","statuscode":200,"length":40280,"title":"福州大学保卫部"}
+{"url":"http://xyzh.fzu.edu.cn","cms":"None","server":"Unknown","statuscode":200,"length":32132,"title":"福州大学校友会、福州大学教育发展基金会"}
+{"url":"http://youth.fzu.edu.cn","cms":"None","server":"Unknown","statuscode":200,"length":24889,"title":"共青团福州大学委员会"}
+{"url":"http://jgsyxcx.fzu.edu.cn","cms":"None","server":"Microsoft-IIS/8.5","statuscode":200,"length":7203,"title":"实验室管理系统"}
+{"url":"http://xxb.fzu.edu.cn","cms":"None","server":"WebSphere Application Server/6.1","statuscode":503,"length":1679,"title":"出错啦！"}
+{"url":"http://molihua.fzu.edu.cn","cms":"None","server":"None","statuscode":200,"length":21295,"title":"ACM DOC | ACM协同创新团队Wiki"}
+{"url":"http://ims.fzu.edu.cn","cms":"None","server":"Unknown","statuscode":200,"length":14279,"title":"\t微软IT校园微课堂"}
+{"url":"http://che.fzu.edu.cn","cms":"None","server":"Unknown","statuscode":200,"length":38992,"title":"首页"}
+{"url":"http://wanglab.fzu.edu.cn","cms":"None","server":"Unknown","statuscode":200,"length":3647,"title":"XINCHEN WANG GROUP"}
+{"url":"http://zjxy.fzu.edu.cn","cms":"None","server":"Unknown","statuscode":200,"length":33343,"title":"紫金矿业学院 - Zijin Mining College, Fuzhou University"}
+{"url":"http://yklai.fzu.edu.cn","cms":"None","server":"Unknown","statuscode":200,"length":9808,"title":"赖跃坤课题组"}
+{"url":"http://tangjing.fzu.edu.cn","cms":"None","server":"Unknown","statuscode":200,"length":10758,"title":"福州大学汤儆教授课题组"}
+{"url":"http://fmerc.fzu.edu.cn","cms":"None","server":"Unknown","statuscode":200,"length":20019,"title":"福建省功能材料工程研究中心"}
+{"url":"http://tmxsgzw.fzu.edu.cn","cms":"None","server":"Unknown","statuscode":200,"length":18930,"title":"土木工程学院学生工作网"}
+{"url":"http://zsb.fzu.edu.cn","cms":"None","server":"WebSphere Application Server/6.1","statuscode":200,"length":60613,"title":"福州大学招生考试中心"}
+{"url":"http://pop3.fzu.edu.cn","cms":"CoreMail","server":"nginx","statuscode":200,"length":24220,"title":"福州大学邮件系统"}
+{"url":"http://www1.fzu.edu.cn","cms":"None","server":"nginx","statuscode":200,"length":43243,"title":"首页 - 福州大学"}
+{"url":"http://60.fzu.edu.cn","cms":"None","server":"Unknown","statuscode":200,"length":10784,"title":"福州大学建校60周年"}
+{"url":"http://acfcc.fzu.edu.cn","cms":"None","server":"Unknown","statuscode":200,"length":16150,"title":"International Conference on  Arch Bridges (iCAB)浜氭床娣峰嚌鍦熻仈鍚堜細涓浗鍥㈢粍瀹樼綉锛堣嫳鏂囷級"}
+{"url":"http://rail.fzu.edu.cn","cms":"None","server":"Unknown","statuscode":200,"length":15228,"title":"智慧地铁福建省高校重点实验室"}
+{"url":"http://sbcg.fzu.edu.cn","cms":"None","server":"nginx","statuscode":200,"length":91,"title":""}
+{"url":"http://dsi.fzu.edu.cn","cms":"None","server":"Unknown","statuscode":200,"length":17829,"title":"福州大学决策科学研究所"}
+{"url":"http://wxb.fzu.edu.cn","cms":"None","server":"WebSphere Application Server/6.1","statuscode":200,"length":32638,"title":"网络安全与信息化办公室"}
+{"url":"http://chelab.fzu.edu.cn","cms":"None","server":"Unknown","statuscode":200,"length":8834,"title":"福州大学石油化工学院化工与过控专业实验教学示范中心"}
+{"url":"http://tyzf.fzu.edu.cn","cms":"None","server":"Unknown","statuscode":200,"length":23606,"title":"\t福州大学校园统一支付平台"}
+{"url":"http://tmsy.fzu.edu.cn","cms":"None","server":"Unknown","statuscode":200,"length":25850,"title":"土木工程国家级实验教学示范中心"}
+{"url":"http://fjwlxh.fzu.edu.cn","cms":"None","server":"Unknown","statuscode":200,"length":7602,"title":"福建省物理学会中学生物理竞赛管理平台"}
+{"url":"http://jjh.fzu.edu.cn","cms":"None","server":"Unknown","statuscode":200,"length":7697,"title":"福州大学教育发展基金会"}
+{"url":"http://supramol.fzu.edu.cn","cms":"None","server":"Unknown","statuscode":200,"length":22869,"title":"Laboratory of Supramolecular Structures and Materials, Fuzhou University"}
+{"url":"http://jgxy.fzu.edu.cn","cms":"None","server":"Unknown","statuscode":200,"length":30329,"title":"首页 - 经济与管理学院"}
+{"url":"http://hqc.fzu.edu.cn","cms":"None","server":"Unknown","statuscode":200,"length":33955,"title":"福州大学后勤管理处"}
+{"url":"http://bkjx.fzu.edu.cn","cms":"None","server":"None","statuscode":200,"length":1819,"title":"福州大学教务处"}
+{"url":"http://cms.fzu.edu.cn","cms":"None","server":"IBM_HTTP_Server","statuscode":200,"length":44020,"title":"福州大学网站群"}
+{"url":"http://dxskjxh.fzu.edu.cn","cms":"None","server":"IBM_HTTP_Server","statuscode":200,"length":10160,"title":"福州大学科技协会"}
+{"url":"http://sea.fzu.edu.cn","cms":"None","server":"Unknown","statuscode":200,"length":24800,"title":"福州大学海洋学院"}
+{"url":"http://fjheia.fzu.edu.cn","cms":"None","server":"Unknown","statuscode":200,"length":16363,"title":"福建省高校教育信息化学会"}
+{"url":"http://sr.fzu.edu.cn","cms":"None","server":"Unknown","statuscode":200,"length":85182,"title":"福州大学树人网"}
+{"url":"http://jjkjy.fzu.edu.cn","cms":"None","server":"Unknown","statuscode":200,"length":40084,"title":"福州大学晋江科教园管委会-首页"}
+{"url":"http://qswls.fzu.edu.cn","cms":"None","server":"Unknown","statuscode":200,"length":22947,"title":"福州大学旗山惟廉社"}
+{"url":"http://slsdsys.fzu.edu.cn","cms":"None","server":"Unknown","statuscode":200,"length":17744,"title":"福州大学水利水电专业工程教育认证"}
+{"url":"http://cz.fzu.edu.cn","cms":"None","server":"Apache-Coyote/1.1","statuscode":404,"length":0,"title":""}
+{"url":"http://oce-en.fzu.edu.cn","cms":"None","server":"Unknown","statuscode":200,"length":10296,"title":"福州大学对外合作与交流处英文版"}
+{"url":"http://grs.fzu.edu.cn","cms":"None","server":"Unknown","statuscode":200,"length":9372,"title":"Graduate School of Fuzhou University"}
+{"url":"http://sports.fzu.edu.cn","cms":"None","server":"Unknown","statuscode":200,"length":15090,"title":"福州大学体育教学研究部"}
+{"url":"http://sec.fzu.edu.cn","cms":"None","server":"WebSphere Application Server/6.1","statuscode":200,"length":28827,"title":"2020国家网络安全宣传周专题网站 - 福州大学"}
+{"url":"http://dag.fzu.edu.cn","cms":"None","server":"WebSphere Application Server/6.1","statuscode":200,"length":46270,"title":"福州大学档案馆福州大学档案馆导航栏福州大学档案馆footer"}
+{"url":"http://xcb.fzu.edu.cn","cms":"None","server":"Unknown","statuscode":200,"length":19996,"title":"党委宣传部"}
+{"url":"http://xkzx.fzu.edu.cn","cms":"None","server":"Unknown","statuscode":200,"length":21807,"title":"福州大学先进控制技术研究中心"}
+{"url":"http://fg211.fzu.edu.cn","cms":"None","server":"Unknown","statuscode":200,"length":23188,"title":"福州大学发展规划与学科建设处"}
+{"url":"http://marx.fzu.edu.cn","cms":"None","server":"Unknown","statuscode":200,"length":24930,"title":"马克思主义学院"}
+{"url":"http://m.fzu.edu.cn","cms":"None","server":"Unknown","statuscode":200,"length":2952,"title":"福州大学一卡通客户端下载"}
+{"url":"http://xwgk.fzu.edu.cn","cms":"None","server":"Unknown","statuscode":200,"length":33803,"title":"福州大学信息公开网（党务校务公开网）"}
+{"url":"http://nepcchem.fzu.edu.cn","cms":"None","server":"Unknown","statuscode":200,"length":11703,"title":"福州大学福建石化集团国家级工程实践教育中心"}
+{"url":"http://mcmf.fzu.edu.cn","cms":"None","server":"Unknown","statuscode":200,"length":7351,"title":"福州大学材料科学与工程学院"}
+{"url":"http://miec.fzu.edu.cn","cms":"None","server":"Unknown","statuscode":200,"length":8626,"title":"福州大学梅努斯国际工程学院"}
+{"url":"http://xjzz.fzu.edu.cn","cms":"None","server":"WebSphere Application Server/6.1","statuscode":200,"length":19794,"title":"首页－先进制造学院"}
+{"url":"http://zsks.fzu.edu.cn","cms":"None","server":"WebSphere Application Server/6.1","statuscode":200,"length":60613,"title":"福州大学招生考试中心"}
+{"url":"http://rwb.fzu.edu.cn","cms":"None","server":"Unknown","statuscode":200,"length":35070,"title":"福州大学人民武装部"}
+{"url":"http://tzb.fzu.edu.cn","cms":"None","server":"Unknown","statuscode":200,"length":31748,"title":"福州大学党委统战部Header底部"}
+{"url":"http://imap.fzu.edu.cn","cms":"CoreMail","server":"nginx","statuscode":200,"length":24220,"title":"福州大学邮件系统"}
+{"url":"http://gzyq.fzu.edu.cn","cms":"None","server":"Unknown","statuscode":200,"length":60,"title":""}
+{"url":"http://xjjs.fzu.edu.cn","cms":"None","server":"Unknown","statuscode":200,"length":18996,"title":"福州大学先进技术创新研究院"}
+{"url":"http://usp.fzu.edu.cn","cms":"None","server":"Unknown","statuscode":200,"length":14077,"title":"国家大学科技园管理委员会办公室topfoot"}
+{"url":"http://jg2gh.fzu.edu.cn","cms":"None","server":"Unknown","statuscode":200,"length":18236,"title":"福州大学机关工会委员会"}
+{"url":"http://life.fzu.edu.cn","cms":"None","server":"Unknown","statuscode":200,"length":22189,"title":"福州大学生命科学研究所尾部"}
+{"url":"http://cpi.fzu.edu.cn","cms":"None","server":"Unknown","statuscode":200,"length":7236,"title":"福州大学化工过程强化课题组"}
+{"url":"http://chemlab.fzu.edu.cn","cms":"None","server":"WebSphere Application Server/6.1","statuscode":200,"length":71399,"title":"福州大学国家级实验教学示范中心（化学）化学学院化学实验教学中心导航栏化学学院化学实验教学中心footer"}
+{"url":"http://ddh.fzu.edu.cn","cms":"None","server":"WebSphere Application Server/6.1","statuscode":200,"length":22877,"title":"中国共产党福州大学第七次党员代表大会专题网 - 首页"}
+{"url":"http://en.er.fzu.edu.cn","cms":"None","server":"Unknown","statuscode":200,"length":11050,"title":"College of Environment And Resources. FuZhou University"}
+{"url":"http://iss.fzu.edu.cn","cms":"None","server":"Unknown","statuscode":200,"length":21841,"title":"福州大学软科学研究所"}
+{"url":"http://en.civil.fzu.edu.cn","cms":"None","server":"Unknown","statuscode":200,"length":29830,"title":"COLLEGE OF CIVIL ENGINEERING OF FUZHOU UNIVERSITYtop"}
+{"url":"http://fpd.fzu.edu.cn","cms":"None","server":"Unknown","statuscode":200,"length":19741,"title":"平板显示国家地方联合工程实验室"}
+{"url":"http://aam.fzu.edu.cn","cms":"None","server":"Unknown","statuscode":200,"length":52471,"title":""}
+{"url":"http://fsc.fzu.edu.cn","cms":"None","server":"WebSphere Application Server/6.1","statuscode":200,"length":13019,"title":"福建省超级计算中心topfoot"}
+{"url":"http://dzhc.fzu.edu.cn","cms":"None","server":"Unknown","statuscode":200,"length":14867,"title":"统一身份认证"}
+{"url":"http://zzb.fzu.edu.cn","cms":"None","server":"Unknown","statuscode":403,"length":1590,"title":"出错啦！"}
+{"url":"http://map.fzu.edu.cn","cms":"None","server":"nginx/1.16.1","statuscode":200,"length":2213,"title":"校园地图服务系统"}
+{"url":"http://fdmf.fzu.edu.cn","cms":"None","server":"Unknown","statuscode":200,"length":12946,"title":"福州大学数理金融实验班"}
+{"url":"http://wdz.fzu.edu.cn","cms":"None","server":"Unknown","statuscode":200,"length":11330,"title":"微电子学院"}
+{"url":"http://dx.fzu.edu.cn","cms":"None","server":"Unknown","statuscode":403,"length":1590,"title":"出错啦！"}
+{"url":"http://long.fzu.edu.cn","cms":"None","server":"Unknown","statuscode":200,"length":15482,"title":"Index"}
+{"url":"http://law2.fzu.edu.cn","cms":"None","server":"Unknown","statuscode":503,"length":1679,"title":"出错啦！"}
+{"url":"http://fzu1.fzu.edu.cn","cms":"None","server":"IBM_HTTP_Server","statuscode":503,"length":1679,"title":"出错啦！"}
+{"url":"http://jcc.fzu.edu.cn","cms":"None","server":"Unknown","statuscode":403,"length":0,"title":"出错啦！"}
+{"url":"http://en.law.fzu.edu.cn","cms":"None","server":"Unknown","statuscode":200,"length":5118,"title":"Fuzhou University Law Schooltop"}
+{"url":"http://en.che.fzu.edu.cn","cms":"None","server":"Unknown","statuscode":200,"length":11654,"title":"石油化工学院（英文）"}
+{"url":"http://ykt.fzu.edu.cn","cms":"None","server":"nginx/1.15.5","statuscode":200,"length":31846,"title":"福州大学一卡通"}
+{"url":"http://xugroup.fzu.edu.cn","cms":"None","server":"Unknown","statuscode":200,"length":21976,"title":"欢迎访问徐艺军研究小组 - 主页"}
+{"url":"http://jg.fzu.edu.cn","cms":"None","server":"Unknown","statuscode":200,"length":18579,"title":"机关一、机关二党委"}
+{"url":"http://ieavs.fzu.edu.cn","cms":"None","server":"Unknown","statuscode":200,"length":136,"title":""}
+{"url":"http://ehall.fzu.edu.cn/../new/portal/browerTips.html","cms":"None","server":"openresty","statuscode":400,"length":166,"title":"400 Bad Request"}
+{"url":"http://xbzrb.fzu.edu.cn/get_password.aspx?user_type=author","cms":"None","server":"Microsoft-IIS/7.5","statuscode":200,"length":3368,"title":""}
+{"url":"http://i.fzu.edu.cn/../new/portal/browerTips.html","cms":"None","server":"openresty","statuscode":400,"length":166,"title":"400 Bad Request"}
+{"url":"http://open.fzu.edu.cn/../new/portal/browerTips.html","cms":"None","server":"openresty","statuscode":400,"length":166,"title":"400 Bad Request"}
+{"url":"http://jjh.fzu.edu.cn/'/adaptIE'\" ","cms":"None","server":"Unknown","statuscode":200,"length":7697,"title":"福州大学教育发展基金会"}
+{"url":"http://www.wzu.edu.cn","cms":"None","server":"VWebServer","statuscode":200,"length":84009,"title":"温州大学"}
+{"url":"http://sb.wzu.edu.cn","cms":"None","server":"VWebServer","statuscode":200,"length":84009,"title":"温州大学"}
+{"url":"http://klds.wzu.edu.cn","cms":"None","server":"VWebServer","statuscode":200,"length":84009,"title":"温州大学"}
+{"url":"http://dwadwa.wzu.edu.cn","cms":"None","server":"VWebServer","statuscode":200,"length":84009,"title":"温州大学"}
+{"url":"http://wdaad.wzu.edu.cn","cms":"None","server":"VWebServer","statuscode":200,"length":84009,"title":"温州大学"}
+{"url":"http://54g54rg.wzu.edu.cn","cms":"None","server":"VWebServer","statuscode":200,"length":84009,"title":"温州大学"}
+{"url":"http://wrett.wzu.edu.cn","cms":"None","server":"VWebServer","statuscode":200,"length":84009,"title":"温州大学"}
+{"url":"http://dwadawd.wzu.edu.cn","cms":"None","server":"VWebServer","statuscode":200,"length":84009,"title":"温州大学"}
+{"url":"http://uykyuk.wzu.edu.cn","cms":"None","server":"VWebServer","statuscode":200,"length":84009,"title":"温州大学"}
+{"url":"http://ergergr.wzu.edu.cn","cms":"None","server":"VWebServer","statuscode":200,"length":84009,"title":"温州大学"}
+{"url":"http://awdawfw.wzu.edu.cn","cms":"None","server":"VWebServer","statuscode":200,"length":84009,"title":"温州大学"}
+{"url":"http://rz.wzu.edu.cn","cms":"None","server":"Apache-Coyote/1.1","statuscode":200,"length":392,"title":""}
+{"url":"http://hum.wzu.edu.cn","cms":"None","server":"VWebServer","statuscode":200,"length":39703,"title":"温州大学-人文学院"}
+{"url":"http://zs.wzu.edu.cn","cms":"None","server":"VWebServer","statuscode":200,"length":26765,"title":"招生网"}
+{"url":"http://hum.wzu.edu.cn","cms":"None","server":"VWebServer","statuscode":200,"length":39703,"title":"温州大学-人文学院"}
+{"url":"http://hum.wzu.edu.cn","cms":"None","server":"VWebServer","statuscode":200,"length":39703,"title":"温州大学-人文学院"}
+{"url":"http://hum.wzu.edu.cn","cms":"None","server":"VWebServer","statuscode":200,"length":39703,"title":"温州大学-人文学院"}
+{"url":"http://www.mstir.cn","cms":"None","server":"kangle/free","statuscode":200,"length":15840,"title":"Mstir'Blog - HakHome"}
+{"url":"http://www.mstir.cn","cms":"None","server":"nginx","statuscode":200,"length":11152,"title":"页面已拦截"}
+{"url":"http://192.95.26.159","cms":"None","server":"Apache/2.4.25","statuscode":200,"length":85908,"title":"phpinfo()"}
+{"url":"http://142.93.1.125","cms":"None","server":"nginx/1.15.0","statuscode":200,"length":99226,"title":"phpinfo()"}
+{"url":"http://142.93.1.125","cms":"None","server":"nginx/1.15.0","statuscode":200,"length":99215,"title":"phpinfo()"}
+{"url":"http://127.0.0.1/","cms":"None","server":"Apache/2.4.23 (Win32) OpenSSL/1.0.2j PHP/5.4.45","statuscode":200,"length":0,"title":""}
+{"url":"http://127.0.0.1/","cms":"None","server":"Apache/2.4.23 (Win32) OpenSSL/1.0.2j PHP/5.4.45","statuscode":200,"length":0,"title":""}
+{"url":"http://10.134.28.194","cms":"None","server":"Apache/2.4.23 (Win32) OpenSSL/1.0.2j PHP/5.4.45","statuscode":200,"length":0,"title":""}
+{"url":"http://10.134.28.194","cms":"None","server":"Apache/2.4.23 (Win32) OpenSSL/1.0.2j PHP/5.4.45","statuscode":200,"length":0,"title":""}
+{"url":"http://challenge-cebcf0a08d34115d.sandbox.ctfhub.com:10080/","cms":"None","server":"openresty/1.15.8.2","statuscode":200,"length":143,"title":"CTFHub .git leakage"}
+{"url":"http://127.0.0.1/","cms":"None","server":"Apache/2.4.23 (Win32) OpenSSL/1.0.2j PHP/5.4.45","statuscode":200,"length":0,"title":""}
+{"url":"http://127.0.0.1","cms":"None","server":"Apache/2.4.23 (Win32) OpenSSL/1.0.2j PHP/5.4.45","statuscode":200,"length":0,"title":""}
+{"url":"http://challenge-1d6cf825762d822f.sandbox.ctfhub.com:10080/","cms":"None","server":"openresty/1.15.8.2","statuscode":200,"length":221,"title":"CTFHub 信息泄露 SVN"}
+{"url":"http://challenge-1d6cf825762d822f.sandbox.ctfhub.com:10080/","cms":"None","server":"openresty/1.15.8.2","statuscode":200,"length":1314,"title":"CTFHub 环境实例 | 提示信息"}
+{"url":"http://challenge-1d6cf825762d822f.sandbox.ctfhub.com:10080/","cms":"None","server":"openresty/1.15.8.2","statuscode":200,"length":1314,"title":"CTFHub 环境实例 | 提示信息"}
+{"url":"http://challenge-1d6cf825762d822f.sandbox.ctfhub.com:10080/","cms":"None","server":"openresty/1.15.8.2","statuscode":200,"length":1314,"title":"CTFHub 环境实例 | 提示信息"}
+{"url":"http://challenge-1d6cf825762d822f.sandbox.ctfhub.com:10080/","cms":"None","server":"openresty/1.15.8.2","statuscode":200,"length":221,"title":"CTFHub 信息泄露 SVN"}
+{"url":"http://challenge-14929fc922aa25b5.sandbox.ctfhub.com:10080/","cms":"None","server":"openresty/1.15.8.2","statuscode":200,"length":200,"title":"CTFHub BackUp DS_Store"}
+{"url":"http://127.0.0.1/","cms":"None","server":"Apache/2.4.23 (Win32) OpenSSL/1.0.2j PHP/5.4.45","statuscode":200,"length":0,"title":""}
+{"url":"http://10.134.27.136/","cms":"None","server":"Apache/2.4.23 (Win32) OpenSSL/1.0.2j PHP/5.4.45","statuscode":200,"length":11,"title":""}
+{"url":"http://10.134.27.136/","cms":"None","server":"Apache/2.4.23 (Win32) OpenSSL/1.0.2j PHP/5.4.45","statuscode":200,"length":11,"title":""}

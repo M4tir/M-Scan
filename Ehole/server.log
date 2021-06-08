@@ -1,0 +1,476 @@
+2021/02/09 22:45:47 httprequest.go:62: 访问失败： Get "http://wap.sina.com.cn": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/02/09 22:45:47 httprequest.go:62: 访问失败： Get "http://ns4.sina.com.cn": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/02/09 23:00:23 httprequest.go:62: 访问失败： Get "http://ns4.sina.com.cn": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/02/09 23:00:23 httprequest.go:62: 访问失败： Get "http://wap.sina.com.cn": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/02/09 23:01:27 httprequest.go:62: 访问失败： Get "http://ns4.sina.com.cn": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/02/09 23:01:27 httprequest.go:62: 访问失败： Get "http://wap.sina.com.cn": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/02/09 23:02:10 httprequest.go:62: 访问失败： Get "http://wap.sina.com.cn": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/02/09 23:02:10 httprequest.go:62: 访问失败： Get "http://ns4.sina.com.cn": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/02/09 23:03:34 httprequest.go:62: 访问失败： Get "http://wap.sina.com.cn": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/02/09 23:03:34 httprequest.go:62: 访问失败： Get "http://ns4.sina.com.cn": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 07:45:49 httprequest.go:62: 访问失败： Get "/website/f": grequests: Request exceeded redirect count
+2021/03/14 07:46:03 httprequest.go:62: 访问失败： Get "http://download.fzu.edu.cn": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 07:46:03 httprequest.go:62: 访问失败： Get "http://film.fzu.edu.cn": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 07:46:03 httprequest.go:62: 访问失败： Get "http://info.fzu.edu.cn": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 07:46:03 httprequest.go:62: 访问失败： Get "http://eoa.fzu.edu.cn": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 07:46:03 httprequest.go:62: 访问失败： Get "http://adm.fzu.edu.cn": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 07:46:03 httprequest.go:62: 访问失败： Get "http://ibpt.fzu.edu.cn": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 07:46:03 httprequest.go:62: 访问失败： Get "http://pas.fzu.edu.cn": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 07:46:03 httprequest.go:62: 访问失败： Get "http://dips.fzu.edu.cn": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 07:46:03 httprequest.go:62: 访问失败： Get "http://nc.fzu.edu.cn": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 07:46:03 httprequest.go:62: 访问失败： Get "http://libdc.fzu.edu.cn": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 07:46:03 httprequest.go:62: 访问失败： Get "http://down.fzu.edu.cn": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 07:46:03 httprequest.go:62: 访问失败： Get "http://dzzw.fzu.edu.cn": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 07:46:03 httprequest.go:62: 访问失败： Get "http://bookcd.fzu.edu.cn": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 07:46:03 httprequest.go:62: 访问失败： Get "http://myiu.fzu.edu.cn": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 07:46:03 httprequest.go:62: 访问失败： Get "http://apabi.fzu.edu.cn": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 07:46:03 httprequest.go:62: 访问失败： Get "http://fpgu.fzu.edu.cn": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 07:46:03 httprequest.go:62: 访问失败： Get "http://iptv.fzu.edu.cn": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 07:46:03 httprequest.go:62: 访问失败： Get "http://edp.fzu.edu.cn": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 07:46:03 httprequest.go:62: 访问失败： Get "http://rs.fzu.edu.cn": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 07:46:03 httprequest.go:62: 访问失败： Get "http://pt.fzu.edu.cn": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 07:46:03 httprequest.go:62: 访问失败： Get "http://fuda61.fzu.edu.cn": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 07:46:03 httprequest.go:62: 访问失败： Get "http://360e12355.fzu.edu.cn": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 07:46:03 httprequest.go:62: 访问失败： Get "http://sdrcce.fzu.edu.cn": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 07:46:03 httprequest.go:62: 访问失败： Get "http://func.fzu.edu.cn": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 07:46:03 httprequest.go:62: 访问失败： Get "http://bbs.fzu.edu.cn": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 07:46:03 httprequest.go:62: 访问失败： Get "http://gcampus.fzu.edu.cn": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 07:46:03 httprequest.go:62: 访问失败： Get "http://ds.fzu.edu.cn": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 07:49:24 httprequest.go:62: 访问失败： Get "dimacs.fzu.edu.cn": unsupported protocol scheme ""
+2021/03/14 07:49:24 httprequest.go:62: 访问失败： Get "acm.fzu.edu.cn": unsupported protocol scheme ""
+2021/03/14 07:49:24 httprequest.go:62: 访问失败： Get "oce.fzu.edu.cn": unsupported protocol scheme ""
+2021/03/14 07:49:24 httprequest.go:62: 访问失败： Get "fpgu.fzu.edu.cn": unsupported protocol scheme ""
+2021/03/14 07:49:24 httprequest.go:62: 访问失败： Get "opac.lib.fzu.edu.cn": unsupported protocol scheme ""
+2021/03/14 07:49:24 httprequest.go:62: 访问失败： Get "func.fzu.edu.cn": unsupported protocol scheme ""
+2021/03/14 07:49:24 httprequest.go:62: 访问失败： Get "ibpt.fzu.edu.cn": unsupported protocol scheme ""
+2021/03/14 07:49:24 httprequest.go:62: 访问失败： Get "renwen.fzu.edu.cn": unsupported protocol scheme ""
+2021/03/14 07:49:24 httprequest.go:62: 访问失败： Get "kjkf.fzu.edu.cn": unsupported protocol scheme ""
+2021/03/14 07:49:24 httprequest.go:62: 访问失败： Get "dzzw.fzu.edu.cn": unsupported protocol scheme ""
+2021/03/14 07:49:24 httprequest.go:62: 访问失败： Get "film.fzu.edu.cn": unsupported protocol scheme ""
+2021/03/14 07:49:24 httprequest.go:62: 访问失败： Get "pas.fzu.edu.cn": unsupported protocol scheme ""
+2021/03/14 07:49:24 httprequest.go:62: 访问失败： Get "adm.fzu.edu.cn": unsupported protocol scheme ""
+2021/03/14 07:49:24 httprequest.go:62: 访问失败： Get "pt.fzu.edu.cn": unsupported protocol scheme ""
+2021/03/14 07:49:24 httprequest.go:62: 访问失败： Get "download.fzu.edu.cn": unsupported protocol scheme ""
+2021/03/14 07:49:24 httprequest.go:62: 访问失败： Get "apabi.fzu.edu.cn": unsupported protocol scheme ""
+2021/03/14 07:49:24 httprequest.go:62: 访问失败： Get "mail.fzu.edu.cn": unsupported protocol scheme ""
+2021/03/14 07:49:24 httprequest.go:62: 访问失败： Get "sdrcce.fzu.edu.cn": unsupported protocol scheme ""
+2021/03/14 07:49:24 httprequest.go:62: 访问失败： Get "down.fzu.edu.cn": unsupported protocol scheme ""
+2021/03/14 07:49:24 httprequest.go:62: 访问失败： Get "nc.fzu.edu.cn": unsupported protocol scheme ""
+2021/03/14 07:49:24 httprequest.go:62: 访问失败： Get "er.fzu.edu.cn": unsupported protocol scheme ""
+2021/03/14 07:49:24 httprequest.go:62: 访问失败： Get "bookcd.fzu.edu.cn": unsupported protocol scheme ""
+2021/03/14 07:49:24 httprequest.go:62: 访问失败： Get "fddm.fzu.edu.cn": unsupported protocol scheme ""
+2021/03/14 07:49:24 httprequest.go:62: 访问失败： Get "eoa.fzu.edu.cn": unsupported protocol scheme ""
+2021/03/14 07:49:24 httprequest.go:62: 访问失败： Get "libdc.fzu.edu.cn": unsupported protocol scheme ""
+2021/03/14 07:49:24 httprequest.go:62: 访问失败： Get "dips.fzu.edu.cn": unsupported protocol scheme ""
+2021/03/14 07:49:24 httprequest.go:62: 访问失败： Get "fbmei.fzu.edu.cn": unsupported protocol scheme ""
+2021/03/14 07:49:24 httprequest.go:62: 访问失败： Get "rsc.fzu.edu.cn": unsupported protocol scheme ""
+2021/03/14 07:49:24 httprequest.go:62: 访问失败： Get "rs.fzu.edu.cn": unsupported protocol scheme ""
+2021/03/14 07:49:24 httprequest.go:62: 访问失败： Get "fuda61.fzu.edu.cn": unsupported protocol scheme ""
+2021/03/14 07:49:24 httprequest.go:62: 访问失败： Get "civil.fzu.edu.cn": unsupported protocol scheme ""
+2021/03/14 07:49:24 httprequest.go:62: 访问失败： Get "info.fzu.edu.cn": unsupported protocol scheme ""
+2021/03/14 07:49:24 httprequest.go:62: 访问失败： Get "cmcs.fzu.edu.cn": unsupported protocol scheme ""
+2021/03/14 07:49:24 httprequest.go:62: 访问失败： Get "bbs.fzu.edu.cn": unsupported protocol scheme ""
+2021/03/14 07:49:24 httprequest.go:62: 访问失败： Get "lib.fzu.edu.cn": unsupported protocol scheme ""
+2021/03/14 07:49:24 httprequest.go:62: 访问失败： Get "gcampus.fzu.edu.cn": unsupported protocol scheme ""
+2021/03/14 07:49:24 httprequest.go:62: 访问失败： Get "ds.fzu.edu.cn": unsupported protocol scheme ""
+2021/03/14 07:49:24 httprequest.go:62: 访问失败： Get "cjy.fzu.edu.cn": unsupported protocol scheme ""
+2021/03/14 07:49:24 httprequest.go:62: 访问失败： Get "360e12355.fzu.edu.cn": unsupported protocol scheme ""
+2021/03/14 07:49:24 httprequest.go:62: 访问失败： Get "fjfm.fzu.edu.cn": unsupported protocol scheme ""
+2021/03/14 07:49:24 httprequest.go:62: 访问失败： Get "sfl.fzu.edu.cn": unsupported protocol scheme ""
+2021/03/14 07:49:24 httprequest.go:62: 访问失败： Get "jgsyzx.fzu.edu.cn": unsupported protocol scheme ""
+2021/03/14 07:49:24 httprequest.go:62: 访问失败： Get "molihua.fzu.edu.cn": unsupported protocol scheme ""
+2021/03/14 07:49:24 httprequest.go:62: 访问失败： Get "chem.fzu.edu.cn": unsupported protocol scheme ""
+2021/03/14 07:49:24 httprequest.go:62: 访问失败： Get "iptv.fzu.edu.cn": unsupported protocol scheme ""
+2021/03/14 07:49:24 httprequest.go:62: 访问失败： Get "edp.fzu.edu.cn": unsupported protocol scheme ""
+2021/03/14 07:49:24 httprequest.go:62: 访问失败： Get "myiu.fzu.edu.cn": unsupported protocol scheme ""
+2021/03/14 07:49:24 httprequest.go:62: 访问失败： Get "mba.fzu.edu.cn": unsupported protocol scheme ""
+2021/03/14 07:49:24 httprequest.go:62: 访问失败： Get "lsdmis.fzu.edu.cn": unsupported protocol scheme ""
+2021/03/14 07:49:24 httprequest.go:62: 访问失败： Get "fzu.edu.cn": unsupported protocol scheme ""
+2021/03/14 09:30:37 httprequest.go:62: 访问失败： Get "": unsupported protocol scheme ""
+2021/03/14 09:30:37 httprequest.go:62: 访问失败： Get "/website/f": grequests: Request exceeded redirect count
+2021/03/14 09:30:40 httprequest.go:62: 访问失败： Get "": unsupported protocol scheme ""
+2021/03/14 09:30:40 httprequest.go:62: 访问失败： Get "219.229.134.134": unsupported protocol scheme ""
+2021/03/14 09:30:40 httprequest.go:62: 访问失败： Get "59.77.134.1": unsupported protocol scheme ""
+2021/03/14 09:30:40 httprequest.go:62: 访问失败： Get "59.77.231.18": unsupported protocol scheme ""
+2021/03/14 09:30:40 httprequest.go:62: 访问失败： Get "218.193.121.21": unsupported protocol scheme ""
+2021/03/14 09:30:40 httprequest.go:62: 访问失败： Get "59.77.231.40": unsupported protocol scheme ""
+2021/03/14 09:30:40 httprequest.go:62: 访问失败： Get "218.193.121.105": unsupported protocol scheme ""
+2021/03/14 09:32:32 httprequest.go:62: 访问失败： Get "": unsupported protocol scheme ""
+2021/03/14 09:32:33 httprequest.go:62: 访问失败： Get "/website/f": grequests: Request exceeded redirect count
+2021/03/14 09:32:36 httprequest.go:62: 访问失败： Get "http:://59.77.134.1": http: no Host in request URL
+2021/03/14 09:32:36 httprequest.go:62: 访问失败： Get "": unsupported protocol scheme ""
+2021/03/14 09:32:36 httprequest.go:62: 访问失败： Get "http:://59.77.231.40": http: no Host in request URL
+2021/03/14 09:32:36 httprequest.go:62: 访问失败： Get "http:://218.193.121.105": http: no Host in request URL
+2021/03/14 09:32:36 httprequest.go:62: 访问失败： Get "http:://59.77.231.18": http: no Host in request URL
+2021/03/14 09:32:36 httprequest.go:62: 访问失败： Get "http:://218.193.121.21": http: no Host in request URL
+2021/03/14 09:32:36 httprequest.go:62: 访问失败： Get "http:://219.229.134.224": http: no Host in request URL
+2021/03/14 09:43:02 httprequest.go:62: 访问失败： Get "": unsupported protocol scheme ""
+2021/03/14 09:43:06 httprequest.go:62: 访问失败： Get "http:://59.77.134.2:8080": http: no Host in request URL
+2021/03/14 09:43:06 httprequest.go:62: 访问失败： Get "http:://210.34.48.16:8080": http: no Host in request URL
+2021/03/14 09:43:06 httprequest.go:62: 访问失败： Get "http:://59.77.134.2:8081": http: no Host in request URL
+2021/03/14 09:43:06 httprequest.go:62: 访问失败： Get "http:://210.34.48.16:8081": http: no Host in request URL
+2021/03/14 09:43:06 httprequest.go:62: 访问失败： Get "http:://59.77.134.2:8089": http: no Host in request URL
+2021/03/14 09:43:06 httprequest.go:62: 访问失败： Get "http:://59.77.226.51:8080": http: no Host in request URL
+2021/03/14 09:43:06 httprequest.go:62: 访问失败： Get "http:://219.229.132.17:80": http: no Host in request URL
+2021/03/14 09:43:06 httprequest.go:62: 访问失败： Get "http:://219.229.134.196:80": http: no Host in request URL
+2021/03/14 09:43:06 httprequest.go:62: 访问失败： Get "http:://219.229.132.17:21": http: no Host in request URL
+2021/03/14 09:43:06 httprequest.go:62: 访问失败： Get "http:://219.229.134.196:8089": http: no Host in request URL
+2021/03/14 09:43:06 httprequest.go:62: 访问失败： Get "http:://219.229.134.196:8081": http: no Host in request URL
+2021/03/14 09:43:06 httprequest.go:62: 访问失败： Get "http:://219.229.132.17:8089": http: no Host in request URL
+2021/03/14 09:43:06 httprequest.go:62: 访问失败： Get "http:://59.77.231.40:8081": http: no Host in request URL
+2021/03/14 09:43:06 httprequest.go:62: 访问失败： Get "http:://59.77.231.40:21": http: no Host in request URL
+2021/03/14 09:43:06 httprequest.go:62: 访问失败： Get "http:://218.193.121.10:8081": http: no Host in request URL
+2021/03/14 09:43:06 httprequest.go:62: 访问失败： Get "http:://218.193.121.18": http: no Host in request URL
+2021/03/14 09:43:06 httprequest.go:62: 访问失败： Get "http:://218.193.121.10:21": http: no Host in request URL
+2021/03/14 09:43:06 httprequest.go:62: 访问失败： Get "http:://218.193.121.18:8081": http: no Host in request URL
+2021/03/14 09:43:06 httprequest.go:62: 访问失败： Get "http:://219.229.134.225:8081": http: no Host in request URL
+2021/03/14 09:43:06 httprequest.go:62: 访问失败： Get "http:://219.229.134.225:8089": http: no Host in request URL
+2021/03/14 09:43:06 httprequest.go:62: 访问失败： Get "http:://218.193.121.18:8080": http: no Host in request URL
+2021/03/14 09:43:06 httprequest.go:62: 访问失败： Get "http:://218.193.121.10:8080": http: no Host in request URL
+2021/03/14 09:43:06 httprequest.go:62: 访问失败： Get "http:://59.77.226.66": http: no Host in request URL
+2021/03/14 09:43:06 httprequest.go:62: 访问失败： Get "http:://218.193.121.18:21": http: no Host in request URL
+2021/03/14 09:43:06 httprequest.go:62: 访问失败： Get "http:://59.77.134.2:21": http: no Host in request URL
+2021/03/14 09:43:06 httprequest.go:62: 访问失败： Get "http:://218.193.121.18:8089": http: no Host in request URL
+2021/03/14 09:43:06 httprequest.go:62: 访问失败： Get "http:://59.77.226.66:8081": http: no Host in request URL
+2021/03/14 09:43:06 httprequest.go:62: 访问失败： Get "http:://59.77.134.2": http: no Host in request URL
+2021/03/14 09:43:06 httprequest.go:62: 访问失败： Get "http:://210.34.48.16:8089": http: no Host in request URL
+2021/03/14 09:43:06 httprequest.go:62: 访问失败： Get "http:://210.34.48.16:21": http: no Host in request URL
+2021/03/14 09:43:06 httprequest.go:62: 访问失败： Get "http:://59.77.226.51:8089": http: no Host in request URL
+2021/03/14 09:43:06 httprequest.go:62: 访问失败： Get "http:://219.229.132.17": http: no Host in request URL
+2021/03/14 09:43:06 httprequest.go:62: 访问失败： Get "http:://219.229.132.17:8080": http: no Host in request URL
+2021/03/14 09:43:06 httprequest.go:62: 访问失败： Get "http:://59.77.231.40": http: no Host in request URL
+2021/03/14 09:43:06 httprequest.go:62: 访问失败： Get "http:://219.229.134.196": http: no Host in request URL
+2021/03/14 09:43:06 httprequest.go:62: 访问失败： Get "http:://59.77.231.40:80": http: no Host in request URL
+2021/03/14 09:43:06 httprequest.go:62: 访问失败： Get "http:://219.229.132.17:8081": http: no Host in request URL
+2021/03/14 09:43:06 httprequest.go:62: 访问失败： Get "http:://59.77.226.51:21": http: no Host in request URL
+2021/03/14 09:43:06 httprequest.go:62: 访问失败： Get "http:://219.229.134.196:8080": http: no Host in request URL
+2021/03/14 09:43:06 httprequest.go:62: 访问失败： Get "http:://59.77.231.40:8080": http: no Host in request URL
+2021/03/14 09:43:06 httprequest.go:62: 访问失败： Get "http:://210.34.48.60:80": http: no Host in request URL
+2021/03/14 09:43:06 httprequest.go:62: 访问失败： Get "http:://210.34.48.60": http: no Host in request URL
+2021/03/14 09:43:06 httprequest.go:62: 访问失败： Get "http:://219.229.134.196:21": http: no Host in request URL
+2021/03/14 09:43:06 httprequest.go:62: 访问失败： Get "http:://210.34.48.60:21": http: no Host in request URL
+2021/03/14 09:43:06 httprequest.go:62: 访问失败： Get "http:://59.77.231.40:8089": http: no Host in request URL
+2021/03/14 09:43:06 httprequest.go:62: 访问失败： Get "http:://218.193.121.10": http: no Host in request URL
+2021/03/14 09:43:06 httprequest.go:62: 访问失败： Get "http:://219.229.134.225:80": http: no Host in request URL
+2021/03/14 09:43:06 httprequest.go:62: 访问失败： Get "http:://219.229.132.66:80": http: no Host in request URL
+2021/03/14 09:43:06 httprequest.go:62: 访问失败： Get "http:://218.193.121.10:8089": http: no Host in request URL
+2021/03/14 09:43:06 httprequest.go:62: 访问失败： Get "http:://219.229.134.225": http: no Host in request URL
+2021/03/14 09:43:06 httprequest.go:62: 访问失败： Get "http:://219.229.134.225:21": http: no Host in request URL
+2021/03/14 09:43:06 httprequest.go:62: 访问失败： Get "http:://219.229.132.66": http: no Host in request URL
+2021/03/14 09:43:06 httprequest.go:62: 访问失败： Get "http:://219.229.132.66:21": http: no Host in request URL
+2021/03/14 09:43:06 httprequest.go:62: 访问失败： Get "http:://219.229.134.225:8080": http: no Host in request URL
+2021/03/14 09:43:06 httprequest.go:62: 访问失败： Get "http:://219.229.132.66:8080": http: no Host in request URL
+2021/03/14 09:43:06 httprequest.go:62: 访问失败： Get "http:://210.34.48.16": http: no Host in request URL
+2021/03/14 09:43:06 httprequest.go:62: 访问失败： Get "http:://218.193.121.10:80": http: no Host in request URL
+2021/03/14 09:43:06 httprequest.go:62: 访问失败： Get "http:://210.34.48.16:80": http: no Host in request URL
+2021/03/14 09:43:06 httprequest.go:62: 访问失败： Get "http:://219.229.132.66:8081": http: no Host in request URL
+2021/03/14 09:43:06 httprequest.go:62: 访问失败： Get "http:://219.229.132.66:8089": http: no Host in request URL
+2021/03/14 09:43:06 httprequest.go:62: 访问失败： Get "http:://59.77.226.66:21": http: no Host in request URL
+2021/03/14 09:43:06 httprequest.go:62: 访问失败： Get "http:://59.77.226.66:80": http: no Host in request URL
+2021/03/14 09:43:06 httprequest.go:62: 访问失败： Get "http:://59.77.226.51": http: no Host in request URL
+2021/03/14 09:43:06 httprequest.go:62: 访问失败： Get "": unsupported protocol scheme ""
+2021/03/14 09:43:06 httprequest.go:62: 访问失败： Get "http:://59.77.226.51:80": http: no Host in request URL
+2021/03/14 09:43:06 httprequest.go:62: 访问失败： Get "http:://59.77.226.51:8081": http: no Host in request URL
+2021/03/14 09:43:06 httprequest.go:62: 访问失败： Get "http:://210.34.48.60:8080": http: no Host in request URL
+2021/03/14 09:43:06 httprequest.go:62: 访问失败： Get "http:://210.34.48.60:8081": http: no Host in request URL
+2021/03/14 09:43:06 httprequest.go:62: 访问失败： Get "http:://210.34.48.60:8089": http: no Host in request URL
+2021/03/14 09:43:06 httprequest.go:62: 访问失败： Get "http:://218.193.121.18:80": http: no Host in request URL
+2021/03/14 09:43:06 httprequest.go:62: 访问失败： Get "http:://59.77.134.2:80": http: no Host in request URL
+2021/03/14 09:43:06 httprequest.go:62: 访问失败： Get "http:://59.77.226.66:8089": http: no Host in request URL
+2021/03/14 09:43:06 httprequest.go:62: 访问失败： Get "http:://59.77.226.66:8080": http: no Host in request URL
+2021/03/14 09:43:17 httprequest.go:62: 访问失败： Get "http://rs.fzu.edu.cn": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:43:17 httprequest.go:62: 访问失败： Get "http://dzzw.fzu.edu.cn": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:43:17 httprequest.go:62: 访问失败： Get "http://fuda61.fzu.edu.cn": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:43:17 httprequest.go:62: 访问失败： Get "http://bookcd.fzu.edu.cn": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:43:17 httprequest.go:62: 访问失败： Get "http://info.fzu.edu.cn": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:43:17 httprequest.go:62: 访问失败： Get "http://360e12355.fzu.edu.cn": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:43:17 httprequest.go:62: 访问失败： Get "http://pas.fzu.edu.cn": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:43:17 httprequest.go:62: 访问失败： Get "http://libdc.fzu.edu.cn": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:43:17 httprequest.go:62: 访问失败： Get "http://bbs.fzu.edu.cn": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:43:17 httprequest.go:62: 访问失败： Get "http://fpgu.fzu.edu.cn": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:43:17 httprequest.go:62: 访问失败： Get "http://nc.fzu.edu.cn": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:43:17 httprequest.go:62: 访问失败： Get "http://ds.fzu.edu.cn": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:44:09 httprequest.go:62: 访问失败： Get "": unsupported protocol scheme ""
+2021/03/14 09:44:13 httprequest.go:62: 访问失败： Get "": unsupported protocol scheme ""
+2021/03/14 09:44:14 httprequest.go:62: 访问失败： Get "https://59.77.231.40:80/": EOF
+2021/03/14 09:44:14 faviconhash.go:56: favicon client error: Get "https://210.34.48.16/favicon.ico": x509: cannot validate certificate for 210.34.48.16 because it doesn't contain any IP SANs
+2021/03/14 09:44:14 faviconhash.go:56: favicon client error: Get "https://210.34.48.16/favicon.ico": x509: cannot validate certificate for 210.34.48.16 because it doesn't contain any IP SANs
+2021/03/14 09:44:14 faviconhash.go:56: favicon client error: Get "https://59.77.231.40/favicon.ico": x509: cannot validate certificate for 59.77.231.40 because it doesn't contain any IP SANs
+2021/03/14 09:44:24 httprequest.go:62: 访问失败： Get "http://rs.fzu.edu.cn": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:44:24 httprequest.go:62: 访问失败： Get "http://dzzw.fzu.edu.cn": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:44:24 httprequest.go:62: 访问失败： Get "http://fuda61.fzu.edu.cn": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:44:24 httprequest.go:62: 访问失败： Get "http://info.fzu.edu.cn": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:44:24 httprequest.go:62: 访问失败： Get "http://bookcd.fzu.edu.cn": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:44:24 httprequest.go:62: 访问失败： Get "http://pas.fzu.edu.cn": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:44:24 httprequest.go:62: 访问失败： Get "http://360e12355.fzu.edu.cn": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:44:24 httprequest.go:62: 访问失败： Get "http://bbs.fzu.edu.cn": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:44:24 httprequest.go:62: 访问失败： Get "http://nc.fzu.edu.cn": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:44:24 httprequest.go:62: 访问失败： Get "http://ds.fzu.edu.cn": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:44:24 httprequest.go:62: 访问失败： Get "http://fpgu.fzu.edu.cn": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:44:24 httprequest.go:62: 访问失败： Get "http://libdc.fzu.edu.cn": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:44:28 httprequest.go:62: 访问失败： Get "http://59.77.226.51:80": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:44:28 httprequest.go:62: 访问失败： Get "http://59.77.226.51:8081": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:44:28 httprequest.go:62: 访问失败： Get "http://59.77.226.51:8080": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:44:28 httprequest.go:62: 访问失败： Get "http://59.77.226.60:8081": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:44:28 httprequest.go:62: 访问失败： Get "http://210.34.48.60": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:44:28 httprequest.go:62: 访问失败： Get "http://59.77.226.66": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:44:28 httprequest.go:62: 访问失败： Get "http://59.77.226.51:21": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:44:28 httprequest.go:62: 访问失败： Get "http://59.77.226.51:8089": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:44:28 httprequest.go:62: 访问失败： Get "http://219.229.134.160:8080": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:44:28 httprequest.go:62: 访问失败： Get "http://219.229.134.160:8081": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:44:28 httprequest.go:62: 访问失败： Get "http://219.229.134.160": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:44:28 httprequest.go:62: 访问失败： Get "http://219.229.134.160:80": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:44:28 httprequest.go:62: 访问失败： Get "http://59.77.226.60:80": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:44:28 httprequest.go:62: 访问失败： Get "http://219.229.134.160:21": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:44:28 httprequest.go:62: 访问失败： Get "http://219.229.134.160:8089": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:44:28 httprequest.go:62: 访问失败： Get "http://59.77.226.60": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:44:28 httprequest.go:62: 访问失败： Get "http://59.77.226.60:8089": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:44:28 httprequest.go:62: 访问失败： Get "http://59.77.226.60:8080": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:44:28 httprequest.go:62: 访问失败： Get "http://210.34.48.16:8089": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:44:28 httprequest.go:62: 访问失败： Get "http://59.77.134.2:80": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:44:28 httprequest.go:62: 访问失败： Get "http://59.77.226.60:21": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:44:28 httprequest.go:62: 访问失败： Get "http://59.77.134.2": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:44:28 httprequest.go:62: 访问失败： Get "http://219.229.134.196": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:44:28 httprequest.go:62: 访问失败： Get "http://59.77.134.2:8081": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:44:28 httprequest.go:62: 访问失败： Get "http://59.77.134.2:8089": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:44:28 httprequest.go:62: 访问失败： Get "http://59.77.134.2:8080": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:44:28 httprequest.go:62: 访问失败： Get "http://59.77.134.2:21": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:44:28 httprequest.go:62: 访问失败： Get "http://219.229.134.196:21": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:44:28 httprequest.go:62: 访问失败： Get "http://219.229.134.196:80": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:44:28 httprequest.go:62: 访问失败： Get "http://219.229.134.196:8089": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:44:28 httprequest.go:62: 访问失败： Get "http://219.229.134.196:8081": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:44:28 httprequest.go:62: 访问失败： Get "http://219.229.134.196:8080": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:44:28 httprequest.go:62: 访问失败： Get "http://210.34.48.60:80": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:44:28 httprequest.go:62: 访问失败： Get "http://210.34.48.16:8080": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:44:28 httprequest.go:62: 访问失败： Get "http://210.34.48.16:8081": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:44:28 httprequest.go:62: 访问失败： Get "http://210.34.48.60:8081": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:44:28 httprequest.go:62: 访问失败： Get "http://219.229.132.17:8080": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:44:28 httprequest.go:62: 访问失败： Get "http://210.34.48.16:21": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:44:28 httprequest.go:62: 访问失败： Get "http://210.34.48.60:8080": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:44:28 httprequest.go:62: 访问失败： Get "http://219.229.132.17": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:44:28 httprequest.go:62: 访问失败： Get "http://59.77.231.40:8080": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:44:28 httprequest.go:62: 访问失败： Get "http://59.77.231.40:8081": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:44:28 httprequest.go:62: 访问失败： Get "http://59.77.231.40:8089": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:44:28 httprequest.go:62: 访问失败： Get "http://59.77.231.40:21": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:44:28 httprequest.go:62: 访问失败： Get "http://219.229.132.17:80": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:44:28 httprequest.go:62: 访问失败： Get "http://59.77.226.66:80": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:44:28 httprequest.go:62: 访问失败： Get "http://59.77.226.66:8080": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:44:28 httprequest.go:62: 访问失败： Get "http://59.77.226.66:8081": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:44:28 httprequest.go:62: 访问失败： Get "http://59.77.226.66:8089": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:44:28 httprequest.go:62: 访问失败： Get "http://59.77.226.66:21": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:44:28 httprequest.go:62: 访问失败： Get "http://219.229.132.17:8081": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:44:28 httprequest.go:62: 访问失败： Get "http://210.34.48.60:8089": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:44:28 httprequest.go:62: 访问失败： Get "http://219.229.132.17:21": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:44:28 httprequest.go:62: 访问失败： Get "http://210.34.48.60:21": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:44:28 httprequest.go:62: 访问失败： Get "http://219.229.132.17:8089": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:44:28 httprequest.go:62: 访问失败： Get "http://59.77.226.51": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:44:28 httprequest.go:62: 访问失败： Get "http://219.229.132.98:21": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:44:28 httprequest.go:62: 访问失败： Get "http://219.229.132.98:8089": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:44:28 httprequest.go:62: 访问失败： Get "http://219.229.132.98:8081": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:44:28 httprequest.go:62: 访问失败： Get "http://219.229.132.98:8080": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:46:01 httprequest.go:62: 访问失败： Get "": unsupported protocol scheme ""
+2021/03/14 09:46:05 httprequest.go:62: 访问失败： Get "": unsupported protocol scheme ""
+2021/03/14 09:46:06 httprequest.go:62: 访问失败： Get "https://59.77.231.40:80/": EOF
+2021/03/14 09:46:06 faviconhash.go:56: favicon client error: Get "https://210.34.48.16/favicon.ico": x509: cannot validate certificate for 210.34.48.16 because it doesn't contain any IP SANs
+2021/03/14 09:46:06 faviconhash.go:56: favicon client error: Get "https://210.34.48.16/favicon.ico": x509: cannot validate certificate for 210.34.48.16 because it doesn't contain any IP SANs
+2021/03/14 09:46:07 faviconhash.go:56: favicon client error: Get "https://59.77.231.40/favicon.ico": x509: cannot validate certificate for 59.77.231.40 because it doesn't contain any IP SANs
+2021/03/14 09:46:16 httprequest.go:62: 访问失败： Get "http://bbs.fzu.edu.cn": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:46:16 httprequest.go:62: 访问失败： Get "http://ds.fzu.edu.cn": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:46:16 httprequest.go:62: 访问失败： Get "http://rs.fzu.edu.cn": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:46:16 httprequest.go:62: 访问失败： Get "http://bookcd.fzu.edu.cn": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:46:16 httprequest.go:62: 访问失败： Get "http://dzzw.fzu.edu.cn": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:46:16 httprequest.go:62: 访问失败： Get "http://nc.fzu.edu.cn": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:46:16 httprequest.go:62: 访问失败： Get "http://fuda61.fzu.edu.cn": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:46:16 httprequest.go:62: 访问失败： Get "http://info.fzu.edu.cn": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:46:16 httprequest.go:62: 访问失败： Get "http://360e12355.fzu.edu.cn": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:46:16 httprequest.go:62: 访问失败： Get "http://pas.fzu.edu.cn": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:46:16 httprequest.go:62: 访问失败： Get "http://libdc.fzu.edu.cn": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:46:16 httprequest.go:62: 访问失败： Get "http://fpgu.fzu.edu.cn": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:46:20 httprequest.go:62: 访问失败： Get "http://218.193.121.10": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:46:20 httprequest.go:62: 访问失败： Get "http://218.193.121.10:80": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:46:20 httprequest.go:62: 访问失败： Get "http://218.193.121.10:8080": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:46:20 httprequest.go:62: 访问失败： Get "http://218.193.121.10:8081": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:46:20 httprequest.go:62: 访问失败： Get "http://218.193.121.10:8089": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:46:20 httprequest.go:62: 访问失败： Get "http://218.193.121.10:21": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:46:20 httprequest.go:62: 访问失败： Get "http://210.34.48.16:8089": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:46:20 httprequest.go:62: 访问失败： Get "http://210.34.48.16:8080": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:46:20 httprequest.go:62: 访问失败： Get "http://210.34.48.16:8081": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:46:20 httprequest.go:62: 访问失败： Get "http://59.77.231.40:8080": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:46:20 httprequest.go:62: 访问失败： Get "http://210.34.48.16:21": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:46:20 httprequest.go:62: 访问失败： Get "http://219.229.132.66": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:46:20 httprequest.go:62: 访问失败： Get "http://59.77.231.40:8089": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:46:20 httprequest.go:62: 访问失败： Get "http://59.77.231.40:8081": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:46:20 httprequest.go:62: 访问失败： Get "http://59.77.231.40:21": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:46:20 httprequest.go:62: 访问失败： Get "http://219.229.132.66:8080": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:46:20 httprequest.go:62: 访问失败： Get "http://219.229.132.66:21": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:46:20 httprequest.go:62: 访问失败： Get "http://219.229.132.66:8081": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:46:20 httprequest.go:62: 访问失败： Get "http://219.229.132.66:8089": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:46:20 httprequest.go:62: 访问失败： Get "http://219.229.132.66:80": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:46:20 httprequest.go:62: 访问失败： Get "http://59.77.226.60:8089": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:46:20 httprequest.go:62: 访问失败： Get "http://59.77.226.60:8081": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:46:20 httprequest.go:62: 访问失败： Get "http://59.77.226.60:8080": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:46:20 httprequest.go:62: 访问失败： Get "http://59.77.226.60": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:46:20 httprequest.go:62: 访问失败： Get "http://59.77.226.60:80": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:46:20 httprequest.go:62: 访问失败： Get "http://219.229.132.17:8081": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:46:20 httprequest.go:62: 访问失败： Get "http://219.229.132.17:8080": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:46:20 httprequest.go:62: 访问失败： Get "http://219.229.132.17": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:46:20 httprequest.go:62: 访问失败： Get "http://59.77.226.60:21": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:46:20 httprequest.go:62: 访问失败： Get "http://219.229.132.17:80": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:46:20 httprequest.go:62: 访问失败： Get "http://219.229.134.225:8080": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:46:20 httprequest.go:62: 访问失败： Get "http://219.229.132.17:21": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:46:20 httprequest.go:62: 访问失败： Get "http://219.229.134.225": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:46:20 httprequest.go:62: 访问失败： Get "http://219.229.132.17:8089": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:46:20 httprequest.go:62: 访问失败： Get "http://219.229.134.225:80": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:46:20 httprequest.go:62: 访问失败： Get "http://59.77.226.66:80": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:46:20 httprequest.go:62: 访问失败： Get "http://219.229.134.225:8089": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:46:20 httprequest.go:62: 访问失败： Get "http://59.77.226.66": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:46:20 httprequest.go:62: 访问失败： Get "http://219.229.134.225:8081": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:46:20 httprequest.go:62: 访问失败： Get "http://219.229.134.225:21": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:46:20 httprequest.go:62: 访问失败： Get "http://59.77.226.51": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:46:20 httprequest.go:62: 访问失败： Get "http://59.77.226.66:21": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:46:20 httprequest.go:62: 访问失败： Get "http://59.77.226.66:8080": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:46:20 httprequest.go:62: 访问失败： Get "http://59.77.226.66:8089": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:46:20 httprequest.go:62: 访问失败： Get "http://59.77.226.66:8081": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:46:20 httprequest.go:62: 访问失败： Get "http://59.77.226.51:8089": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:46:20 httprequest.go:62: 访问失败： Get "http://59.77.226.51:8080": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:46:20 httprequest.go:62: 访问失败： Get "http://59.77.226.51:80": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:46:20 httprequest.go:62: 访问失败： Get "http://59.77.226.51:8081": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:46:20 httprequest.go:62: 访问失败： Get "http://218.193.121.18:8080": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:46:20 httprequest.go:62: 访问失败： Get "http://218.193.121.18": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:46:20 httprequest.go:62: 访问失败： Get "http://59.77.226.51:21": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:46:20 httprequest.go:62: 访问失败： Get "http://218.193.121.18:80": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:46:20 httprequest.go:62: 访问失败： Get "http://218.193.121.18:21": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:46:20 httprequest.go:62: 访问失败： Get "http://218.193.121.18:8081": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/14 09:46:20 httprequest.go:62: 访问失败： Get "http://218.193.121.18:8089": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/16 10:52:46 httprequest.go:62: 访问失败： Get "": unsupported protocol scheme ""
+2021/03/16 18:28:24 httprequest.go:62: 访问失败： Get "": unsupported protocol scheme ""
+2021/03/16 18:29:12 httprequest.go:62: 访问失败： Get "": unsupported protocol scheme ""
+2021/03/16 18:29:58 httprequest.go:62: 访问失败： Get "": unsupported protocol scheme ""
+2021/03/16 18:30:01 httprequest.go:62: 访问失败： Get "": unsupported protocol scheme ""
+2021/03/16 18:30:23 httprequest.go:62: 访问失败： Get "": unsupported protocol scheme ""
+2021/03/16 18:30:26 httprequest.go:62: 访问失败： Get "": unsupported protocol scheme ""
+2021/03/16 18:30:41 httprequest.go:62: 访问失败： Get "http://218.75.16.101:8089": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/16 18:30:41 httprequest.go:62: 访问失败： Get "http://218.75.16.101:8081": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/16 18:30:41 httprequest.go:62: 访问失败： Get "http://218.75.16.101:21": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/16 18:30:41 httprequest.go:62: 访问失败： Get "http://218.75.16.101:8080": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/03/16 18:40:10 httprequest.go:62: 访问失败： Get "": unsupported protocol scheme ""
+2021/03/16 18:40:14 httprequest.go:62: 访问失败： Get "": unsupported protocol scheme ""
+2021/03/16 18:40:16 httprequest.go:62: 访问失败： Get "http://23.225.25.246:8081": dial tcp <nil>->23.225.25.246:8081: connectex: No connection could be made because the target machine actively refused it.
+2021/03/16 18:40:16 httprequest.go:62: 访问失败： Get "http://23.225.25.246:8089": dial tcp <nil>->23.225.25.246:8089: connectex: No connection could be made because the target machine actively refused it.
+2021/03/16 18:40:16 httprequest.go:62: 访问失败： Get "http://23.225.25.246:8080": dial tcp <nil>->23.225.25.246:8080: connectex: No connection could be made because the target machine actively refused it.
+2021/03/16 18:40:17 httprequest.go:62: 访问失败： Get "http://23.225.25.246:21": net/http: HTTP/1.x transport connection broken: malformed HTTP status code "Welcome"
+2021/03/16 18:44:11 httprequest.go:62: 访问失败： Get "": unsupported protocol scheme ""
+2021/03/16 18:44:15 httprequest.go:62: 访问失败： Get "": unsupported protocol scheme ""
+2021/03/16 18:44:17 httprequest.go:62: 访问失败： Get "http://23.225.25.246:8081": dial tcp <nil>->23.225.25.246:8081: connectex: No connection could be made because the target machine actively refused it.
+2021/03/16 18:44:17 httprequest.go:62: 访问失败： Get "http://23.225.25.246:8089": dial tcp <nil>->23.225.25.246:8089: connectex: No connection could be made because the target machine actively refused it.
+2021/03/16 18:44:17 httprequest.go:62: 访问失败： Get "http://23.225.25.246:8080": dial tcp <nil>->23.225.25.246:8080: connectex: No connection could be made because the target machine actively refused it.
+2021/03/16 18:44:18 httprequest.go:62: 访问失败： Get "http://23.225.25.246:21": net/http: HTTP/1.x transport connection broken: malformed HTTP status code "Welcome"
+2021/03/16 18:58:55 httprequest.go:62: 访问失败： Get "": unsupported protocol scheme ""
+2021/03/16 18:58:59 httprequest.go:62: 访问失败： Get "": unsupported protocol scheme ""
+2021/03/16 18:59:00 httprequest.go:62: 访问失败： Get "http://192.95.26.159:8080": dial tcp <nil>->192.95.26.159:8080: connectex: No connection could be made because the target machine actively refused it.
+2021/03/16 18:59:00 httprequest.go:62: 访问失败： Get "http://192.95.26.159:8089": dial tcp <nil>->192.95.26.159:8089: connectex: No connection could be made because the target machine actively refused it.
+2021/03/16 18:59:01 httprequest.go:62: 访问失败： Get "http://192.95.26.159:8081": dial tcp <nil>->192.95.26.159:8081: connectex: No connection could be made because the target machine actively refused it.
+2021/03/16 18:59:35 httprequest.go:62: 访问失败： Get "": unsupported protocol scheme ""
+2021/03/16 18:59:39 httprequest.go:62: 访问失败： Get "": unsupported protocol scheme ""
+2021/03/16 19:11:49 httprequest.go:62: 访问失败： Get "": unsupported protocol scheme ""
+2021/03/16 19:11:58 httprequest.go:62: 访问失败： Get "": unsupported protocol scheme ""
+2021/03/16 19:12:02 httprequest.go:62: 访问失败： Get "": unsupported protocol scheme ""
+2021/03/16 19:12:03 httprequest.go:62: 访问失败： Get "http://127.0.0.1:8080": dial tcp <nil>->127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it.
+2021/03/16 19:12:03 httprequest.go:62: 访问失败： Get "http://127.0.0.1:8081": dial tcp <nil>->127.0.0.1:8081: connectex: No connection could be made because the target machine actively refused it.
+2021/03/16 19:12:03 httprequest.go:62: 访问失败： Get "http://127.0.0.1:8089": dial tcp <nil>->127.0.0.1:8089: connectex: No connection could be made because the target machine actively refused it.
+2021/03/16 19:12:03 httprequest.go:62: 访问失败： Get "http://127.0.0.1:21": dial tcp <nil>->127.0.0.1:21: connectex: No connection could be made because the target machine actively refused it.
+2021/03/16 19:14:46 httprequest.go:62: 访问失败： Get "": unsupported protocol scheme ""
+2021/03/16 19:14:50 httprequest.go:62: 访问失败： Get "": unsupported protocol scheme ""
+2021/03/16 19:14:51 httprequest.go:62: 访问失败： Get "http://127.0.0.1:21": dial tcp <nil>->127.0.0.1:21: connectex: No connection could be made because the target machine actively refused it.
+2021/03/16 19:14:51 httprequest.go:62: 访问失败： Get "http://127.0.0.1:8089": dial tcp <nil>->127.0.0.1:8089: connectex: No connection could be made because the target machine actively refused it.
+2021/03/16 19:14:51 httprequest.go:62: 访问失败： Get "http://127.0.0.1:8080": dial tcp <nil>->127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it.
+2021/03/16 19:14:51 httprequest.go:62: 访问失败： Get "http://127.0.0.1:8081": dial tcp <nil>->127.0.0.1:8081: connectex: No connection could be made because the target machine actively refused it.
+2021/03/16 19:19:09 httprequest.go:62: 访问失败： Get "": unsupported protocol scheme ""
+2021/03/16 19:19:13 httprequest.go:62: 访问失败： Get "": unsupported protocol scheme ""
+2021/03/16 19:19:14 httprequest.go:62: 访问失败： Get "http://10.134.28.194:8080": dial tcp <nil>->10.134.28.194:8080: connectex: No connection could be made because the target machine actively refused it.
+2021/03/16 19:19:14 httprequest.go:62: 访问失败： Get "http://10.134.28.194:8089": dial tcp <nil>->10.134.28.194:8089: connectex: No connection could be made because the target machine actively refused it.
+2021/03/16 19:19:14 httprequest.go:62: 访问失败： Get "http://10.134.28.194:21": dial tcp <nil>->10.134.28.194:21: connectex: No connection could be made because the target machine actively refused it.
+2021/03/16 19:26:37 httprequest.go:62: 访问失败： Get "": unsupported protocol scheme ""
+2021/03/16 19:26:41 httprequest.go:62: 访问失败： Get "": unsupported protocol scheme ""
+2021/03/16 19:26:42 httprequest.go:62: 访问失败： Get "http://10.134.28.194:8080": dial tcp <nil>->10.134.28.194:8080: connectex: No connection could be made because the target machine actively refused it.
+2021/03/16 19:26:42 httprequest.go:62: 访问失败： Get "http://10.134.28.194:8089": dial tcp <nil>->10.134.28.194:8089: connectex: No connection could be made because the target machine actively refused it.
+2021/03/16 19:26:42 httprequest.go:62: 访问失败： Get "http://10.134.28.194:21": dial tcp <nil>->10.134.28.194:21: connectex: No connection could be made because the target machine actively refused it.
+2021/03/16 19:35:52 httprequest.go:62: 访问失败： Get "": unsupported protocol scheme ""
+2021/03/16 19:35:57 httprequest.go:62: 访问失败： Get "": unsupported protocol scheme ""
+2021/03/16 19:35:58 httprequest.go:62: 访问失败： Get "http://:8089": dial tcp <nil>->:8089: connectex: No connection could be made because the target machine actively refused it.
+2021/03/16 19:35:58 httprequest.go:62: 访问失败： Get "http://:21": dial tcp <nil>->:21: connectex: No connection could be made because the target machine actively refused it.
+2021/03/16 19:35:58 httprequest.go:62: 访问失败： Get "http://:80": dial tcp <nil>->:80: connectex: No connection could be made because the target machine actively refused it.
+2021/03/16 19:35:58 httprequest.go:62: 访问失败： Get "http://:8081": dial tcp <nil>->:8081: connectex: No connection could be made because the target machine actively refused it.
+2021/03/16 19:35:58 httprequest.go:62: 访问失败： Get "http://:8080": dial tcp <nil>->:8080: connectex: No connection could be made because the target machine actively refused it.
+2021/03/16 20:03:46 httprequest.go:62: 访问失败： Get "": unsupported protocol scheme ""
+2021/03/16 20:04:19 httprequest.go:62: 访问失败： Get "": unsupported protocol scheme ""
+2021/03/16 20:04:23 httprequest.go:62: 访问失败： Get "": unsupported protocol scheme ""
+2021/03/16 20:04:24 httprequest.go:62: 访问失败： Get "http://127.0.0.1:21": dial tcp <nil>->127.0.0.1:21: connectex: No connection could be made because the target machine actively refused it.
+2021/03/16 20:04:24 httprequest.go:62: 访问失败： Get "http://127.0.0.1:8081": dial tcp <nil>->127.0.0.1:8081: connectex: No connection could be made because the target machine actively refused it.
+2021/03/16 20:04:24 httprequest.go:62: 访问失败： Get "http://127.0.0.1:8080": dial tcp <nil>->127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it.
+2021/03/16 20:04:24 httprequest.go:62: 访问失败： Get "http://127.0.0.1:8089": dial tcp <nil>->127.0.0.1:8089: connectex: No connection could be made because the target machine actively refused it.
+2021/03/16 20:06:12 httprequest.go:62: 访问失败： Get "": unsupported protocol scheme ""
+2021/03/16 20:06:16 httprequest.go:62: 访问失败： Get "": unsupported protocol scheme ""
+2021/03/16 20:06:16 httprequest.go:62: 访问失败： Get "http://:80": EOF
+2021/03/16 20:06:17 httprequest.go:62: 访问失败： Get "http://:8081": dial tcp <nil>->:8081: connectex: No connection could be made because the target machine actively refused it.
+2021/03/16 20:06:17 httprequest.go:62: 访问失败： Get "http://:8080": dial tcp <nil>->:8080: connectex: No connection could be made because the target machine actively refused it.
+2021/03/16 20:06:17 httprequest.go:62: 访问失败： Get "http://:21": dial tcp <nil>->:21: connectex: No connection could be made because the target machine actively refused it.
+2021/03/16 20:06:17 httprequest.go:62: 访问失败： Get "http://:8089": dial tcp <nil>->:8089: connectex: No connection could be made because the target machine actively refused it.
+2021/03/16 20:07:18 httprequest.go:62: 访问失败： Get "": unsupported protocol scheme ""
+2021/03/16 20:07:22 httprequest.go:62: 访问失败： Get "": unsupported protocol scheme ""
+2021/03/16 20:07:22 httprequest.go:62: 访问失败： Get "http://:80": EOF
+2021/03/16 20:07:23 httprequest.go:62: 访问失败： Get "http://:21": dial tcp <nil>->:21: connectex: No connection could be made because the target machine actively refused it.
+2021/03/16 20:07:23 httprequest.go:62: 访问失败： Get "http://:8080": dial tcp <nil>->:8080: connectex: No connection could be made because the target machine actively refused it.
+2021/03/16 20:07:23 httprequest.go:62: 访问失败： Get "http://:8081": dial tcp <nil>->:8081: connectex: No connection could be made because the target machine actively refused it.
+2021/03/16 20:07:23 httprequest.go:62: 访问失败： Get "http://:8089": dial tcp <nil>->:8089: connectex: No connection could be made because the target machine actively refused it.
+2021/03/16 20:08:25 httprequest.go:62: 访问失败： Get "": unsupported protocol scheme ""
+2021/03/16 20:08:28 httprequest.go:62: 访问失败： Get "": unsupported protocol scheme ""
+2021/03/16 20:08:29 httprequest.go:62: 访问失败： Get "http://:80": dial tcp <nil>->:80: connectex: No connection could be made because the target machine actively refused it.
+2021/03/16 20:08:29 httprequest.go:62: 访问失败： Get "http://:8081": dial tcp <nil>->:8081: connectex: No connection could be made because the target machine actively refused it.
+2021/03/16 20:08:29 httprequest.go:62: 访问失败： Get "http://:21": dial tcp <nil>->:21: connectex: No connection could be made because the target machine actively refused it.
+2021/03/16 20:08:29 httprequest.go:62: 访问失败： Get "http://:8089": dial tcp <nil>->:8089: connectex: No connection could be made because the target machine actively refused it.
+2021/03/16 20:08:29 httprequest.go:62: 访问失败： Get "http://:8080": dial tcp <nil>->:8080: connectex: No connection could be made because the target machine actively refused it.
+2021/03/16 20:08:50 httprequest.go:62: 访问失败： Get "": unsupported protocol scheme ""
+2021/03/16 20:08:54 httprequest.go:62: 访问失败： Get "": unsupported protocol scheme ""
+2021/03/16 20:08:55 httprequest.go:62: 访问失败： Get "http://:8080": dial tcp <nil>->:8080: connectex: No connection could be made because the target machine actively refused it.
+2021/03/16 20:08:55 httprequest.go:62: 访问失败： Get "http://:80": dial tcp <nil>->:80: connectex: No connection could be made because the target machine actively refused it.
+2021/03/16 20:08:55 httprequest.go:62: 访问失败： Get "http://:8081": dial tcp <nil>->:8081: connectex: No connection could be made because the target machine actively refused it.
+2021/03/16 20:08:55 httprequest.go:62: 访问失败： Get "http://:8089": dial tcp <nil>->:8089: connectex: No connection could be made because the target machine actively refused it.
+2021/03/16 20:08:55 httprequest.go:62: 访问失败： Get "http://:21": dial tcp <nil>->:21: connectex: No connection could be made because the target machine actively refused it.
+2021/03/16 20:09:31 httprequest.go:62: 访问失败： Get "": unsupported protocol scheme ""
+2021/03/16 20:09:35 httprequest.go:62: 访问失败： Get "": unsupported protocol scheme ""
+2021/03/16 20:09:36 httprequest.go:62: 访问失败： Get "http://:80": dial tcp <nil>->:80: connectex: No connection could be made because the target machine actively refused it.
+2021/03/16 20:09:36 httprequest.go:62: 访问失败： Get "http://:8081": dial tcp <nil>->:8081: connectex: No connection could be made because the target machine actively refused it.
+2021/03/16 20:09:36 httprequest.go:62: 访问失败： Get "http://:21": dial tcp <nil>->:21: connectex: No connection could be made because the target machine actively refused it.
+2021/03/16 20:09:36 httprequest.go:62: 访问失败： Get "http://:8089": dial tcp <nil>->:8089: connectex: No connection could be made because the target machine actively refused it.
+2021/03/16 20:09:36 httprequest.go:62: 访问失败： Get "http://:8080": dial tcp <nil>->:8080: connectex: No connection could be made because the target machine actively refused it.
+2021/03/16 20:09:54 httprequest.go:62: 访问失败： Get "": unsupported protocol scheme ""
+2021/03/16 20:09:58 httprequest.go:62: 访问失败： Get "": unsupported protocol scheme ""
+2021/03/16 20:09:59 httprequest.go:62: 访问失败： Get "http://:8089": dial tcp <nil>->:8089: connectex: No connection could be made because the target machine actively refused it.
+2021/03/16 20:09:59 httprequest.go:62: 访问失败： Get "http://:80": dial tcp <nil>->:80: connectex: No connection could be made because the target machine actively refused it.
+2021/03/16 20:09:59 httprequest.go:62: 访问失败： Get "http://:8080": dial tcp <nil>->:8080: connectex: No connection could be made because the target machine actively refused it.
+2021/03/16 20:09:59 httprequest.go:62: 访问失败： Get "http://:21": dial tcp <nil>->:21: connectex: No connection could be made because the target machine actively refused it.
+2021/03/16 20:09:59 httprequest.go:62: 访问失败： Get "http://:8081": dial tcp <nil>->:8081: connectex: No connection could be made because the target machine actively refused it.
+2021/03/16 20:17:03 httprequest.go:62: 访问失败： Get "": unsupported protocol scheme ""
+2021/03/16 20:17:07 httprequest.go:62: 访问失败： Get "": unsupported protocol scheme ""
+2021/03/16 20:17:08 httprequest.go:62: 访问失败： Get "http://:80": dial tcp <nil>->:80: connectex: No connection could be made because the target machine actively refused it.
+2021/03/16 20:17:08 httprequest.go:62: 访问失败： Get "http://:8081": dial tcp <nil>->:8081: connectex: No connection could be made because the target machine actively refused it.
+2021/03/16 20:17:08 httprequest.go:62: 访问失败： Get "http://:8089": dial tcp <nil>->:8089: connectex: No connection could be made because the target machine actively refused it.
+2021/03/16 20:17:08 httprequest.go:62: 访问失败： Get "http://:8080": dial tcp <nil>->:8080: connectex: No connection could be made because the target machine actively refused it.
+2021/03/16 20:17:08 httprequest.go:62: 访问失败： Get "http://:21": dial tcp <nil>->:21: connectex: No connection could be made because the target machine actively refused it.
+2021/03/16 20:32:28 httprequest.go:62: 访问失败： Get "": unsupported protocol scheme ""
+2021/03/16 20:32:32 httprequest.go:62: 访问失败： Get "": unsupported protocol scheme ""
+2021/03/16 20:32:33 httprequest.go:62: 访问失败： Get "http://127.0.0.1:8089": dial tcp <nil>->127.0.0.1:8089: connectex: No connection could be made because the target machine actively refused it.
+2021/03/16 20:32:33 httprequest.go:62: 访问失败： Get "http://127.0.0.1:8081": dial tcp <nil>->127.0.0.1:8081: connectex: No connection could be made because the target machine actively refused it.
+2021/03/16 20:32:33 httprequest.go:62: 访问失败： Get "http://127.0.0.1:8080": dial tcp <nil>->127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it.
+2021/03/16 20:32:33 httprequest.go:62: 访问失败： Get "http://127.0.0.1:21": dial tcp <nil>->127.0.0.1:21: connectex: No connection could be made because the target machine actively refused it.
+2021/05/06 09:13:56 httprequest.go:62: 访问失败： Get "": unsupported protocol scheme ""
+2021/05/06 09:14:00 httprequest.go:62: 访问失败： Get "": unsupported protocol scheme ""
+2021/05/06 09:14:01 httprequest.go:62: 访问失败： Get "http://10.134.27.136:21": dial tcp <nil>->10.134.27.136:21: connectex: No connection could be made because the target machine actively refused it.
+2021/05/06 09:14:01 httprequest.go:62: 访问失败： Get "http://10.134.27.136:8080": dial tcp <nil>->10.134.27.136:8080: connectex: No connection could be made because the target machine actively refused it.
+2021/05/06 09:14:01 httprequest.go:62: 访问失败： Get "http://10.134.27.136:8089": dial tcp <nil>->10.134.27.136:8089: connectex: No connection could be made because the target machine actively refused it.
+2021/05/06 09:14:38 httprequest.go:62: 访问失败： Get "": unsupported protocol scheme ""
+2021/05/06 09:14:42 httprequest.go:62: 访问失败： Get "": unsupported protocol scheme ""
+2021/05/06 09:14:43 httprequest.go:62: 访问失败： Get "http://10.134.27.136:21": dial tcp <nil>->10.134.27.136:21: connectex: No connection could be made because the target machine actively refused it.
+2021/05/06 09:14:43 httprequest.go:62: 访问失败： Get "http://10.134.27.136:8089": dial tcp <nil>->10.134.27.136:8089: connectex: No connection could be made because the target machine actively refused it.
+2021/05/06 09:14:43 httprequest.go:62: 访问失败： Get "http://10.134.27.136:8080": dial tcp <nil>->10.134.27.136:8080: connectex: No connection could be made because the target machine actively refused it.
