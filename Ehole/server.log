@@ -474,3 +474,26 @@
 2021/05/06 09:14:43 httprequest.go:62: 访问失败： Get "http://10.134.27.136:21": dial tcp <nil>->10.134.27.136:21: connectex: No connection could be made because the target machine actively refused it.
 2021/05/06 09:14:43 httprequest.go:62: 访问失败： Get "http://10.134.27.136:8089": dial tcp <nil>->10.134.27.136:8089: connectex: No connection could be made because the target machine actively refused it.
 2021/05/06 09:14:43 httprequest.go:62: 访问失败： Get "http://10.134.27.136:8080": dial tcp <nil>->10.134.27.136:8080: connectex: No connection could be made because the target machine actively refused it.
+2021/06/08 18:18:02 httprequest.go:62: 访问失败： Get "": unsupported protocol scheme ""
+2021/06/08 18:18:03 httprequest.go:62: 访问失败： Get "http://127.0.0.1/": dial tcp <nil>->127.0.0.1:80: connectex: No connection could be made because the target machine actively refused it.
+2021/06/08 18:18:05 httprequest.go:62: 访问失败： Get "": unsupported protocol scheme ""
+2021/06/08 18:18:06 httprequest.go:62: 访问失败： Get "http://127.0.0.1:8081": dial tcp <nil>->127.0.0.1:8081: connectex: No connection could be made because the target machine actively refused it.
+2021/06/08 18:18:06 httprequest.go:62: 访问失败： Get "http://127.0.0.1:8089": dial tcp <nil>->127.0.0.1:8089: connectex: No connection could be made because the target machine actively refused it.
+2021/06/08 18:18:06 httprequest.go:62: 访问失败： Get "http://127.0.0.1:8080": dial tcp <nil>->127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it.
+2021/06/08 18:18:06 httprequest.go:62: 访问失败： Get "http://127.0.0.1:80": dial tcp <nil>->127.0.0.1:80: connectex: No connection could be made because the target machine actively refused it.
+2021/06/08 18:18:06 httprequest.go:62: 访问失败： Get "http://127.0.0.1:21": dial tcp <nil>->127.0.0.1:21: connectex: No connection could be made because the target machine actively refused it.
+2021/06/08 18:18:10 httprequest.go:62: 访问失败： Get "": unsupported protocol scheme ""
+2021/06/08 18:18:13 httprequest.go:62: 访问失败： Get "": unsupported protocol scheme ""
+2021/06/08 18:18:14 httprequest.go:62: 访问失败： Get "http://127.0.0.1:8081": dial tcp <nil>->127.0.0.1:8081: connectex: No connection could be made because the target machine actively refused it.
+2021/06/08 18:18:14 httprequest.go:62: 访问失败： Get "http://127.0.0.1:80": dial tcp <nil>->127.0.0.1:80: connectex: No connection could be made because the target machine actively refused it.
+2021/06/08 18:18:14 httprequest.go:62: 访问失败： Get "http://127.0.0.1:8080": dial tcp <nil>->127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it.
+2021/06/08 18:18:14 httprequest.go:62: 访问失败： Get "http://127.0.0.1:21": dial tcp <nil>->127.0.0.1:21: connectex: No connection could be made because the target machine actively refused it.
+2021/06/08 18:18:14 httprequest.go:62: 访问失败： Get "http://127.0.0.1:8089": dial tcp <nil>->127.0.0.1:8089: connectex: No connection could be made because the target machine actively refused it.
+2021/06/08 18:18:22 httprequest.go:62: 访问失败： Get "": unsupported protocol scheme ""
+2021/06/08 18:18:23 httprequest.go:62: 访问失败： Get "http://127.0.0.1/": dial tcp <nil>->127.0.0.1:80: connectex: No connection could be made because the target machine actively refused it.
+2021/06/08 18:18:26 httprequest.go:62: 访问失败： Get "": unsupported protocol scheme ""
+2021/06/08 18:18:27 httprequest.go:62: 访问失败： Get "http://127.0.0.1:80": dial tcp <nil>->127.0.0.1:80: connectex: No connection could be made because the target machine actively refused it.
+2021/06/08 18:18:27 httprequest.go:62: 访问失败： Get "http://127.0.0.1:8081": dial tcp <nil>->127.0.0.1:8081: connectex: No connection could be made because the target machine actively refused it.
+2021/06/08 18:18:27 httprequest.go:62: 访问失败： Get "http://127.0.0.1:8080": dial tcp <nil>->127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it.
+2021/06/08 18:18:27 httprequest.go:62: 访问失败： Get "http://127.0.0.1:21": dial tcp <nil>->127.0.0.1:21: connectex: No connection could be made because the target machine actively refused it.
+2021/06/08 18:18:27 httprequest.go:62: 访问失败： Get "http://127.0.0.1:8089": dial tcp <nil>->127.0.0.1:8089: connectex: No connection could be made because the target machine actively refused it.
