@@ -20,3 +20,33 @@
 ### 编译说明
 
 - 直接独立编译即可.
+
+### 运行演示
+
+- 主界面:
+
+![index](https://github.com/M4tir/M-Scan/blob/main/image/1.png)
+
+- 资产总览:
+
+![index](https://github.com/M4tir/M-Scan/blob/main/image/2.png)
+
+- 漏洞总览:
+
+![index](https://github.com/M4tir/M-Scan/blob/main/image/3.png)
+
+- 文件泄露:
+
+![index](https://github.com/M4tir/M-Scan/blob/main/image/4.png)
+
+- 漏洞管理:
+
+![index](https://github.com/M4tir/M-Scan/blob/main/image/6.png)
+
+- 文章检索:
+
+![index](https://github.com/M4tir/M-Scan/blob/main/image/7.png)
+
+- 终端 Terminal:
+
+![index](https://github.com/M4tir/M-Scan/blob/main/image/8.png)
